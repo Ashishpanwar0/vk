@@ -1,0 +1,1 @@
+<?= $this->include('components/facilities_section') ?>
