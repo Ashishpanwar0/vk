@@ -7,11 +7,11 @@ $differencePoints = [
 ];
 
 $experienceCards = [
-    ['title' => 'Luxury Accommodation', 'image' => base_url('uploads/vkgrand/hotel.webp')],
-    ['title' => 'Premium Rooms', 'image' => base_url('uploads/vkgrand/rooms.webp')],
-    ['title' => 'Fine Dining', 'image' => base_url('uploads/vkgrand/restaurant.webp')],
-    ['title' => 'Event Venues', 'image' => base_url('uploads/vkgrand/banquet.webp')],
-    ['title' => 'Spa & Wellness', 'image' => base_url('uploads/vkgrand/spa.webp')]
+    ['title' => 'Luxury Accommodation', 'image' => base_url('Hero-image/Hero-logo-image/show-case-6.webp')],
+    ['title' => 'Premium Rooms', 'image' => base_url('Hero-image/Hero-logo-image/vk-grand-slider-2.webp')],
+    ['title' => 'Fine Dining', 'image' => base_url('Hero-image/Image-Other/DSC09659.webp')],
+    ['title' => 'Event Venues', 'image' => base_url('Hero-image/Hero-logo-image/show-case-6.webp')],
+    ['title' => 'Spa & Wellness', 'image' => base_url('Hero-image/Hero-logo-image/vk-grand (2).webp')]
 ];
 ?>
 

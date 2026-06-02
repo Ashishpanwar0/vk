@@ -108,7 +108,7 @@
                 <!-- Main Image -->
                 <div class="rounded-[24px] overflow-hidden shadow-xl">
                     <img
-                        src="<?= base_url('assets/images/about-main.webp') ?>"
+                        src="<?= base_url('Hero-image/Hero-logo-image/show-case-6.webp') ?>"
                         alt="VK Grand"
                         class="w-full h-[420px] lg:h-[500px] object-cover"
                     >
@@ -118,7 +118,7 @@
                 <div class="absolute -bottom-8 right-0 lg:-right-5 w-[270px]">
                     <div class="bg-white p-2 rounded-3xl shadow-2xl">
                         <img
-                            src="<?= base_url('assets/images/about-room.webp') ?>"
+                            src="<?= base_url('Hero-image/Hero-logo-image/vk-grand (2).webp') ?>"
                             alt="Luxury Room"
                             class="w-full h-[170px] object-cover rounded-2xl"
                         >

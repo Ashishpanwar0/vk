@@ -28,6 +28,6 @@ $maat = [
 
     ],
 
-    'footer_text' => 'At MAAT, we do not just serve food—we celebrate the essence of vegetarian dining with soulful service and elevated hospitality. Whether you are a hotel guest or a local visitor, MAAT is where your search for authentic taste ends.'
+    'footer_text' => 'At , we do not just serve food—we celebrate the essence of vegetarian dining with soulful service and elevated hospitality. Whether you are a hotel guest or a local visitor, MAAT is where your search for authentic taste ends.'
 
 ];

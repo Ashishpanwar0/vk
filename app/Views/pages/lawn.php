@@ -9,11 +9,11 @@
 
 <!-- Lawns Section -->
 <section class="py-8 sm:py-12 md:py-16 bg-white">
-    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    <div class="gird grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         
         <!-- Silver Lawn -->
-        <div class="flex flex-col lg:grid lg:grid-cols-2 gap-8 lg:gap-12 mb-16 md:mb-20">
-            <img src="<?= base_url('assets/images/lawn/silver-lawn-bg.webp') ?>" alt="Silver Lawn" class="w-full h-64 sm:h-80 md:h-96 lg:h-[400px] object-cover rounded-xl shadow-lg">
+        <div class="gap-8 lg:gap-12 mb-16 md:mb-20">
+            <!-- <img src="<?= base_url('assets/images/lawn/silver-lawn-bg.webp') ?>" alt="Silver Lawn" class="w-full h-64 sm:h-80 md:h-96 lg:h-[400px] object-cover rounded-xl shadow-lg"> -->
             <div>
                 <span class="uppercase tracking-[3px] text-[11px] text-[#C09130] font-semibold">Outdoor Venue</span>
                 <h2 class="font-serif text-2xl sm:text-3xl md:text-4xl lg:text-5xl text-[#111] mt-2"><?= esc($lawn['lawns']['silver']['name']) ?></h2>
@@ -28,7 +28,7 @@
         </div>
         
         <!-- Gold Lawn -->
-        <div class="flex flex-col lg:grid lg:grid-cols-2 gap-8 lg:gap-12 mb-16 md:mb-20">
+        <div class=" gap-8 lg:gap-12 mb-16 md:mb-20">
             <div class="order-2 lg:order-1">
                 <span class="uppercase tracking-[3px] text-[11px] text-[#C09130] font-semibold">Premium Lawn</span>
                 <h2 class="font-serif text-2xl sm:text-3xl md:text-4xl lg:text-5xl text-[#111] mt-2"><?= esc($lawn['lawns']['gold']['name']) ?></h2>
@@ -40,12 +40,12 @@
                 <p class="text-gray-600 text-sm md:text-base leading-relaxed mb-4"><?= esc($lawn['lawns']['gold']['description']) ?></p>
                 <span class="inline-block bg-[#C09130] text-white px-6 py-2 rounded-full text-sm font-semibold"><?= esc($lawn['lawns']['gold']['price']) ?></span>
             </div>
-            <img src="<?= base_url('assets/images/lawn/gold-lawn-bg.webp') ?>" alt="Gold Lawn" class="order-1 lg:order-2 w-full h-64 sm:h-80 md:h-96 lg:h-[400px] object-cover rounded-xl shadow-lg">
+            <!-- <img src="<?= base_url('assets/images/lawn/gold-lawn-bg.webp') ?>" alt="Gold Lawn" class="order-1 lg:order-2 w-full h-64 sm:h-80 md:h-96 lg:h-[400px] object-cover rounded-xl shadow-lg"> -->
         </div>
         
         <!-- Platinum Lawn -->
-        <div class="flex flex-col lg:grid lg:grid-cols-2 gap-8 lg:gap-12">
-            <img src="<?= base_url('assets/images/lawn/platinum-lawn-bg.webp') ?>" alt="Platinum Lawn" class="w-full h-64 sm:h-80 md:h-96 lg:h-[400px] object-cover rounded-xl shadow-lg">
+        <div class=" gap-8 lg:gap-12">
+            <!-- <img src="<?= base_url('assets/images/lawn/platinum-lawn-bg.webp') ?>" alt="Platinum Lawn" class="w-full h-64 sm:h-80 md:h-96 lg:h-[400px] object-cover rounded-xl shadow-lg"> -->
             <div>
                 <span class="uppercase tracking-[3px] text-[11px] text-[#C09130] font-semibold">Luxury Lawn</span>
                 <h2 class="font-serif text-2xl sm:text-3xl md:text-4xl lg:text-5xl text-[#111] mt-2"><?= esc($lawn['lawns']['platinum']['name']) ?></h2>

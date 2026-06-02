@@ -8,7 +8,7 @@ return [
 
         'description' => 'Royal hospitality meets modern luxury — in the heart of Kannauj, Uttar Pradesh.',
 
-        'image' => 'Hero-image/Hero-logo-image/slider-3.webp',
+        'image' => 'Hero-image/Hero-logo-image/vk-grand-slider-1.webp',
 
         'button_1_text' => 'Book Your Stay',
         'button_1_link' => 'contact',
@@ -18,6 +18,21 @@ return [
     ],
 
     [
+        'title_1' => 'Luxury',
+        'title_2' => 'Redefined',
+
+        'description' => 'Experience premium comfort, elegant hospitality and unforgettable luxury moments at VK Grand.',
+
+        'image' => 'Hero-image/Hero-logo-image/vk-grand-slider-2.webp',
+
+        'button_1_text' => 'View Rooms',
+        'button_1_link' => 'rooms',
+
+        'button_2_text' => 'Book Now',
+        'button_2_link' => 'contact',
+    ],
+
+        [
         'title_1' => 'Luxury',
         'title_2' => 'Redefined',
 
