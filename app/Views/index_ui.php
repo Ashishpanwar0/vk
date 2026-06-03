@@ -5,39 +5,39 @@
 <div class="overflow-hidden bg-[#F8F3E7] border-y border-[#D4A843]/20 py-3" aria-hidden="true">
     <div class="flex items-center gap-12 whitespace-nowrap w-max animate-[marquee_28s_linear_infinite]">
         
-        <span class="flex items-center gap-3 text-[11px] font-bold tracking-[0.28em] uppercase text-[#B8860B]"><i class="fas fa-star text-[11px]"></i>Luxury Rooms</span>
+        <span class="flex items-center gap-3 text-[14px] font-bold tracking-[0.28em] uppercase text-[#B8860B]"><i class="fas fa-star text-[14px]"></i>Luxury Rooms</span>
 
-        <span class="flex items-center gap-3 text-[11px] font-bold tracking-[0.28em] uppercase text-[#B8860B]"><i class="fas fa-wifi text-[11px]"></i>Free High-Speed WiFi</span>
+        <span class="flex items-center gap-3 text-[14px] font-bold tracking-[0.28em] uppercase text-[#B8860B]"><i class="fas fa-wifi text-[14px]"></i>Free High-Speed WiFi</span>
 
-        <span class="flex items-center gap-3 text-[11px] font-bold tracking-[0.28em] uppercase text-[#B8860B]"><i class="fas fa-utensils text-[11px]"></i>Multi-Cuisine Restaurant</span>
+        <span class="flex items-center gap-3 text-[14px] font-bold tracking-[0.28em] uppercase text-[#B8860B]"><i class="fas fa-utensils text-[14px]"></i>Multi-Cuisine Restaurant</span>
 
-        <span class="flex items-center gap-3 text-[11px] font-bold tracking-[0.28em] uppercase text-[#B8860B]"><i class="fas fa-glass-cheers text-[11px]"></i>Grand Banquet Hall</span>
+        <span class="flex items-center gap-3 text-[14px] font-bold tracking-[0.28em] uppercase text-[#B8860B]"><i class="fas fa-glass-cheers text-[14px]"></i>Grand Banquet Hall</span>
 
-        <span class="flex items-center gap-3 text-[11px] font-bold tracking-[0.28em] uppercase text-[#B8860B]"><i class="fas fa-concierge-bell text-[11px]"></i>24/7 Concierge</span>
+        <span class="flex items-center gap-3 text-[14px] font-bold tracking-[0.28em] uppercase text-[#B8860B]"><i class="fas fa-concierge-bell text-[14px]"></i>24/7 Concierge</span>
 
-        <span class="flex items-center gap-3 text-[11px] font-bold tracking-[0.28em] uppercase text-[#B8860B]"><i class="fas fa-parking text-[11px]"></i>Free Parking</span>
+        <span class="flex items-center gap-3 text-[14px] font-bold tracking-[0.28em] uppercase text-[#B8860B]"><i class="fas fa-parking text-[14px]"></i>Free Parking</span>
 
-        <span class="flex items-center gap-3 text-[11px] font-bold tracking-[0.28em] uppercase text-[#B8860B]"><i class="fas fa-shield-alt text-[11px]"></i>Secure Stay</span>
+        <span class="flex items-center gap-3 text-[14px] font-bold tracking-[0.28em] uppercase text-[#B8860B]"><i class="fas fa-shield-alt text-[14px]"></i>Secure Stay</span>
 
-        <span class="flex items-center gap-3 text-[11px] font-bold tracking-[0.28em] uppercase text-[#B8860B]"><i class="fas fa-map-marker-alt text-[11px]"></i>Kannauj, UP</span>
+        <span class="flex items-center gap-3 text-[14px] font-bold tracking-[0.28em] uppercase text-[#B8860B]"><i class="fas fa-map-marker-alt text-[14px]"></i>Kannauj, UP</span>
 
         <!-- DUPLICATE -->
         
-        <span class="flex items-center gap-3 text-[11px] font-bold tracking-[0.28em] uppercase text-[#B8860B]"><i class="fas fa-star text-[11px]"></i>Luxury Rooms</span>
+        <span class="flex items-center gap-3 text-[14px] font-bold tracking-[0.28em] uppercase text-[#B8860B]"><i class="fas fa-star text-[14px]"></i>Luxury Rooms</span>
 
-        <span class="flex items-center gap-3 text-[11px] font-bold tracking-[0.28em] uppercase text-[#B8860B]"><i class="fas fa-wifi text-[11px]"></i>Free High-Speed WiFi</span>
+        <span class="flex items-center gap-3 text-[14px] font-bold tracking-[0.28em] uppercase text-[#B8860B]"><i class="fas fa-wifi text-[14px]"></i>Free High-Speed WiFi</span>
 
-        <span class="flex items-center gap-3 text-[11px] font-bold tracking-[0.28em] uppercase text-[#B8860B]"><i class="fas fa-utensils text-[11px]"></i>Multi-Cuisine Restaurant</span>
+        <span class="flex items-center gap-3 text-[14px] font-bold tracking-[0.28em] uppercase text-[#B8860B]"><i class="fas fa-utensils text-[14px]"></i>Multi-Cuisine Restaurant</span>
 
-        <span class="flex items-center gap-3 text-[11px] font-bold tracking-[0.28em] uppercase text-[#B8860B]"><i class="fas fa-glass-cheers text-[11px]"></i>Grand Banquet Hall</span>
+        <span class="flex items-center gap-3 text-[14px] font-bold tracking-[0.28em] uppercase text-[#B8860B]"><i class="fas fa-glass-cheers text-[14px]"></i>Grand Banquet Hall</span>
 
-        <span class="flex items-center gap-3 text-[11px] font-bold tracking-[0.28em] uppercase text-[#B8860B]"><i class="fas fa-concierge-bell text-[11px]"></i>24/7 Concierge</span>
+        <span class="flex items-center gap-3 text-[14px] font-bold tracking-[0.28em] uppercase text-[#B8860B]"><i class="fas fa-concierge-bell text-[14px]"></i>24/7 Concierge</span>
 
-        <span class="flex items-center gap-3 text-[11px] font-bold tracking-[0.28em] uppercase text-[#B8860B]"><i class="fas fa-parking text-[11px]"></i>Free Parking</span>
+        <span class="flex items-center gap-3 text-[14px] font-bold tracking-[0.28em] uppercase text-[#B8860B]"><i class="fas fa-parking text-[14px]"></i>Free Parking</span>
 
-        <span class="flex items-center gap-3 text-[11px] font-bold tracking-[0.28em] uppercase text-[#B8860B]"><i class="fas fa-shield-alt text-[11px]"></i>Secure Stay</span>
+        <span class="flex items-center gap-3 text-[14px] font-bold tracking-[0.28em] uppercase text-[#B8860B]"><i class="fas fa-shield-alt text-[14px]"></i>Secure Stay</span>
 
-        <span class="flex items-center gap-3 text-[11px] font-bold tracking-[0.28em] uppercase text-[#B8860B]"><i class="fas fa-map-marker-alt text-[11px]"></i>Kannauj, UP</span>
+        <span class="flex items-center gap-3 text-[14px] font-bold tracking-[0.28em] uppercase text-[#B8860B]"><i class="fas fa-map-marker-alt text-[14px]"></i>Kannauj, UP</span>
 
     </div>
 </div>
@@ -60,7 +60,7 @@
             <!-- LEFT -->
             <div>
 
-                <span class="uppercase tracking-[5px] text-[#B8842C] text-sm font-medium">
+                <span class="uppercase tracking-[5px] text-[#B8842C] text-xl font-bold">
                     About VK Grand
                 </span>
 
@@ -72,7 +72,7 @@
                     </span>
                 </h2>
 
-                <div class="mt-8 space-y-6 text-[#555] text-lg leading-relaxed max-w-[700px]">
+                <div class="mt-8 space-y-6 text-[#555] text-xl leading-relaxed max-w-[700px]">
 
                     <p>
                         Nestled in Kannauj — India's perfume capital — VK Grand Hotel is a sanctuary of refined elegance and authentic Indian warmth. Every room, meal, and interaction is crafted to make your stay truly unforgettable.
@@ -86,7 +86,7 @@
 
                 <div class="flex items-center mt-8 mb-8">
                     <div class="h-px flex-1 bg-[#E7DCC7]"></div>
-                    <span class="px-5 text-xs tracking-[4px] uppercase text-[#B8842C]">
+                    <span class="px-5 text-lg tracking-[4px] uppercase text-[#B8842C]">
                         Est. In Kannauj, UP
                     </span>
                     <div class="h-px flex-1 bg-[#E7DCC7]"></div>
@@ -136,16 +136,16 @@
                 <div class="text-5xl font-serif text-[#C39138]">
                     40+
                 </div>
-                <div class="mt-2 text-[#555]">
+                <div class="mt-2 text-[#555] text-lg">
                     Premium Rooms
                 </div>
             </div>
 
             <div class="bg-white rounded-3xl p-8 text-center shadow-sm">
-                <div class="text-5xl font-serif text-[#C39138]">
+                <div class="text-5xl font-serif text-[#C39138] ">
                     500+
                 </div>
-                <div class="mt-2 text-[#555]">
+                <div class="mt-2 text-[#555] text-lg">
                     Events Hosted
                 </div>
             </div>
@@ -154,7 +154,7 @@
                 <div class="text-5xl font-serif text-[#C39138]">
                     4.8★
                 </div>
-                <div class="mt-2 text-[#555]">
+                <div class="mt-2 text-[#555] text-lg">
                     Guest Rating
                 </div>
             </div>
@@ -167,7 +167,8 @@
 
  <!-- rooms slider page -->
   <?= view('componants/rooms-slider')?>
-
+<!-- cta button -->
+<?= view('componants/cta-card')?>
 <!-- hotel facilities  -->
 <?= view('componants/facilities_section') ?>
 
@@ -184,7 +185,7 @@
 
         <!-- Heading -->
         <div class="mb-10">
-            <p class="uppercase tracking-[4px] text-[11px] text-[#c8a25d] font-medium">
+            <p class="uppercase tracking-[4px] text-[16px] font-bold text-[#c8a25d]">
                 GET IN TOUCH
             </p>
 
@@ -207,11 +208,11 @@
                     </div>
 
                     <div>
-                        <p class="text-[10px] uppercase tracking-widest text-gray-400">
+                        <p class="text-[18px] font-bold uppercase tracking-widest">
                             Call Us
                         </p>
 
-                        <h4 class="font-medium text-gray-800">
+                        <h4 class="font-medium text-gray-800 text-xl">
                             +91 8052065111
                         </h4>
                     </div>
@@ -234,11 +235,11 @@
                     </div>
 
                     <div>
-                        <p class="text-[10px] uppercase tracking-widest text-gray-400">
+                        <p class="text-[18px] font-bold uppercase tracking-widest">
                             WhatsApp
                         </p>
 
-                        <h4 class="font-medium text-gray-800">
+                        <h4 class="font-medium text-gray-800 text-xl">
                             Chat With Us
                         </h4>
                     </div>
@@ -260,11 +261,11 @@
                     </div>
 
                     <div>
-                        <p class="text-[10px] uppercase tracking-widest text-gray-400">
+                        <p class="text-[18px] font-bold uppercase tracking-widest">
                             Email
                         </p>
 
-                        <h4 class="font-medium text-gray-800">
+                        <h4 class="font-medium text-gray-800 text-xl">
                             info@vkgrand.com
                         </h4>
                     </div>
@@ -287,11 +288,11 @@
                     </div>
 
                     <div>
-                        <p class="text-[10px] uppercase tracking-widest text-gray-400">
+                        <p class="text-[18px] font-bold uppercase tracking-widest">
                             Address
                         </p>
 
-                        <h4 class="font-medium text-gray-800">
+                        <h4 class="font-medium text-gray-800 text-xl">
                             VK Grand Hotel, Lucknow, Uttar Pradesh
                         </h4>
                     </div>
@@ -338,8 +339,6 @@
 
     </div>
 </section>
-
-<?= view('componants/cta-card')?>
 
 <!-- Footer Section  -->
 <?= view('template/footer') ?>

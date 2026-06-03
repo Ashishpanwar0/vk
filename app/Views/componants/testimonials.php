@@ -15,7 +15,7 @@ href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css">
 
         <!-- Heading -->
         <div class="text-center mb-12">
-            <span class="uppercase tracking-[4px] text-[#D4A843] text-xs">
+            <span class="uppercase tracking-[4px] text-[#D4A843] text-xl font-bold">
                 GUEST REVIEWS
             </span>
             <h2 class="text-4xl lg:text-6xl mt-3">
@@ -60,7 +60,7 @@ href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css">
                             <?php if(strlen($review) > $limit): ?>
 
                             <p id="full-<?= $index ?>"
-                               class="hidden text-gray-600 leading-7 text-sm">
+                               class="hidden text-gray-600 leading-7 text-lg">
 
                                 <?= esc($review) ?>
 

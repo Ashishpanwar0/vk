@@ -19,7 +19,7 @@ $bg = $bg ?? 'assets/images/banner.jpg';
             <span class="text-white font-semibold"><?= $title ?></span>
         </div>
 
-        <h1 class="text-[#D4A843] text-5xl md:text-7xl leading-tight font-serif">
+        <h1 class="text-[#D4A843] text-5xl md:text-7xl leading-tight font-serif font-bold">
             <?= $title ?>
         </h1>
 

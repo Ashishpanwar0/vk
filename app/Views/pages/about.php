@@ -16,7 +16,7 @@
             <!-- Left Content -->
             <div>
 
-                <span class="uppercase tracking-[4px] text-xs text-[#c6953a] font-semibold">
+                <span class="uppercase tracking-[4px] text-lg text-[#c6953a] font-bold">
                     Our Story
                 </span>
 
@@ -29,7 +29,7 @@
                     </span>
                 </h2>
 
-                <p class="mt-8 text-gray-600 leading-8">
+                <p class="mt-8 text-gray-600 leading-8 text-lg">
                     VK Grand Hotel was founded with a singular vision — to create
                     a luxurious sanctuary in the heart of Kannauj, where every guest
                     feels like royalty. What began as a dream to bring world-class
@@ -37,14 +37,14 @@
                     celebrated hotel.
                 </p>
 
-                <p class="mt-6 text-gray-600 leading-8">
+                <p class="mt-6 text-gray-600 leading-8 text-lg">
                     Kannauj — the perfume capital of India — deserved a hotel that
                     matched its rich heritage and cultural depth. We built VK Grand
                     to honour this city, its warmth, its traditions, and its spirit
                     of welcome.
                 </p>
 
-                <p class="mt-6 text-gray-600 leading-8">
+                <p class="mt-6 text-gray-600 leading-8 text-lg">
                     From intimate family stays to grand wedding receptions, from
                     executive business travel to romantic getaways — VK Grand has
                     been the chosen destination for thousands of guests from across India.
@@ -54,7 +54,7 @@
 
                     <span class="w-40 h-[1px] bg-[#d7c5a4]"></span>
 
-                    <span class="uppercase tracking-[5px] text-[11px] text-[#c6953a] font-medium">
+                    <span class="uppercase tracking-[5px] text-[16px] font-bold text-[#c6953a] font-medium">
                         Our Journey
                     </span>
 
@@ -146,7 +146,7 @@
         <!-- Heading -->
         <div class="text-center mb-16">
 
-            <span class="uppercase tracking-[5px] text-[#d4a843] text-xs font-semibold">
+            <span class="uppercase tracking-[5px] text-[#d4a843] text-lg  font-semibold">
                 What Drives Us
             </span>
 
@@ -218,7 +218,7 @@
         <!-- Heading -->
         <div class="mb-12">
 
-            <span class="uppercase tracking-[4px] text-[11px] text-[#c79b47] font-semibold">
+            <span class="uppercase tracking-[4px] text-[16px] text-[#c79b47] font-bold">
                 What We Stand For
             </span>
 
@@ -239,8 +239,8 @@
                     <i class="fa-solid fa-heart text-[#c79b47]"></i>
                 </div>
                 <div>
-                    <h4 class="font-semibold text-[#111] mb-2">Genuine Warmth</h4>
-                    <p class="text-gray-600 text-sm leading-6">
+                    <h4 class="font-semibold text-[#111] mb-2 text-2xl">Genuine Warmth</h4>
+                    <p class="text-gray-600 text-sm leading-6 text-lg">
                         We treat every guest like family — with sincerity, care, and a smile that comes from the heart.
                     </p>
                 </div>
@@ -251,8 +251,8 @@
                     <i class="fa-solid fa-gem text-[#c79b47]"></i>
                 </div>
                 <div>
-                    <h4 class="font-semibold text-[#111] mb-2">Uncompromising Quality</h4>
-                    <p class="text-gray-600 text-sm leading-6">
+                    <h4 class="font-semibold text-[#111] mb-2 text-2xl">Uncompromising Quality</h4>
+                    <p class="text-gray-600 text-sm leading-6 text-lg">
                         From the finest linen to the freshest ingredients — every detail is held to the highest standard.
                     </p>
                 </div>
@@ -263,8 +263,8 @@
                     <i class="fa-solid fa-feather text-[#c79b47]"></i>
                 </div>
                 <div>
-                    <h4 class="font-semibold text-[#111] mb-2">Respect for Heritage</h4>
-                    <p class="text-gray-600 text-sm leading-6">
+                    <h4 class="font-semibold text-[#111] mb-2 text-2xl">Respect for Heritage</h4>
+                    <p class="text-gray-600 text-sm leading-6 text-lg">
                         We celebrate Kannauj's rich culture and history in everything we do — from our décor to our meals.
                     </p>
                 </div>
@@ -275,8 +275,8 @@
                     <i class="fa-solid fa-handshake text-[#c79b47]"></i>
                 </div>
                 <div>
-                    <h4 class="font-semibold text-[#111] mb-2">Trust & Transparency</h4>
-                    <p class="text-gray-600 text-sm leading-6">
+                    <h4 class="font-semibold text-[#111] mb-2 text-2xl">Trust & Transparency</h4>
+                    <p class="text-gray-600 text-sm leading-6 text-lg">
                         No hidden charges. No surprises. We believe in honest pricing and clear, straightforward service.
                     </p>
                 </div>
@@ -287,7 +287,10 @@
     </div>
 </section>
 
+<!-- cta -->
+ <?=view('componants/cta-card')?>
 
+ 
 <!-- Milestones Section -->
 <section class="py-24 bg-[#efe9dd]">
 
@@ -298,7 +301,7 @@
             <!-- Left Timeline -->
             <div>
 
-                <span class="uppercase tracking-[4px] text-[11px] text-[#c79b47] font-semibold">
+                <span class="uppercase tracking-[4px] text-[16px] text-[#c79b47] font-bold">
                     Our Journey
                 </span>
 
@@ -315,15 +318,15 @@
                     <div class="relative pl-10 pb-10">
                         <span class="absolute -left-[11px] top-1 w-5 h-5 bg-white border-2 border-[#c79b47] rounded-full"></span>
 
-                        <p class="text-[#c79b47] uppercase text-[11px] tracking-[2px] mb-2">
+                        <p class="text-[#c79b47] uppercase text-[16px] font-bold tracking-[2px] mb-2">
                             Foundation
                         </p>
 
-                        <h4 class="font-semibold text-[#111] mb-2">
+                        <h4 class="font-semibold text-[#111] text-2xl mb-2">
                             VK Grand Opens Its Doors
                         </h4>
 
-                        <p class="text-gray-600 text-sm leading-6">
+                        <p class="text-gray-600 text-lg leading-6">
                             VK Grand Hotel inaugurated in Kannauj with 20 premium rooms and a vision to serve the city.
                         </p>
                     </div>
@@ -331,15 +334,15 @@
                     <div class="relative pl-10 pb-10">
                         <span class="absolute -left-[11px] top-1 w-5 h-5 bg-white border-2 border-[#c79b47] rounded-full"></span>
 
-                        <p class="text-[#c79b47] uppercase text-[11px] tracking-[2px] mb-2">
+                        <p class="text-[#c79b47] uppercase text-[16px] font-bold tracking-[2px] mb-2">
                             Expansion
                         </p>
 
-                        <h4 class="font-semibold text-[#111] mb-2">
+                        <h4 class="font-semibold text-[#111] text-2xl mb-2">
                             Restaurant & Banquet Launch
                         </h4>
 
-                        <p class="text-gray-600 text-sm leading-6">
+                        <p class="text-gray-600 text-lg leading-6">
                             The Grand Kitchen and 500+ seat Banquet Hall opened, transforming VK Grand into Kannauj's premier event venue.
                         </p>
                     </div>
@@ -347,15 +350,15 @@
                     <div class="relative pl-10 pb-10">
                         <span class="absolute -left-[11px] top-1 w-5 h-5 bg-white border-2 border-[#c79b47] rounded-full"></span>
 
-                        <p class="text-[#c79b47] uppercase text-[11px] tracking-[2px] mb-2">
+                        <p class="text-[#c79b47] uppercase text-[16px] font-bold tracking-[2px] mb-2">
                             Recognition
                         </p>
 
-                        <h4 class="font-semibold text-[#111] mb-2">
+                        <h4 class="font-semibold text-[#111] text-2xl mb-2">
                             Best Hotel in Kannauj Award
                         </h4>
 
-                        <p class="text-gray-600 text-sm leading-6">
+                        <p class="text-gray-600 text-lg leading-6">
                             Recognized as the best hospitality property in Kannauj district with a 4.8-star guest rating.
                         </p>
                     </div>
@@ -363,15 +366,15 @@
                     <div class="relative pl-10">
                         <span class="absolute -left-[11px] top-1 w-5 h-5 bg-white border-2 border-[#c79b47] rounded-full"></span>
 
-                        <p class="text-[#c79b47] uppercase text-[11px] tracking-[2px] mb-2">
+                        <p class="text-[#c79b47] uppercase text-[16px] font-bold tracking-[2px] mb-2">
                             Today
                         </p>
 
-                        <h4 class="font-semibold text-[#111] mb-2">
+                        <h4 class="font-semibold text-[#111] text-2xl mb-2">
                             40+ Rooms, 10,000+ Happy Guests
                         </h4>
 
-                        <p class="text-gray-600 text-sm leading-6">
+                        <p class="text-gray-600 text-lg leading-6">
                             Now home to 40+ premium rooms and suites, having hosted over 10,000 satisfied guests from across India.
                         </p>
                     </div>
@@ -400,9 +403,6 @@
 
     </div>
 
-</section>
-
-<!-- cta -->
- <?=view('componants/cta-card')?>
+</section>  
 
 <?= view('template/footer') ?>

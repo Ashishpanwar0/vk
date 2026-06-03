@@ -41,7 +41,7 @@ $sithak = include APPPATH . 'Data/sithak-data.php';
             
             <!-- Content Section -->
             <div class="w-full">
-                <span class="inline-block uppercase tracking-[2px] sm:tracking-[3px] md:tracking-[4px] text-[10px] sm:text-[11px] md:text-xs text-[#C09130] font-semibold mb-2 sm:mb-3">
+                <span class="inline-block uppercase tracking-[2px] sm:tracking-[3px] md:tracking-[4px] text-[16px] text-[#C09130] font-semibold mb-2 sm:mb-3">
                     Premium Lounge
                 </span>
                 
@@ -51,11 +51,11 @@ $sithak = include APPPATH . 'Data/sithak-data.php';
                 
                 <div class="w-16 sm:w-20 md:w-24 h-0.5 bg-[#C09130] my-4 sm:my-5 md:my-6"></div>
                 
-                <p class="text-gray-600 text-sm sm:text-base leading-relaxed sm:leading-loose mb-3 sm:mb-4">
+                <p class="text-gray-600 text-lg leading-relaxed sm:leading-loose mb-3 sm:mb-4">
                     <?= esc($sithak['description_1']) ?>
                 </p>
                 
-                <p class="text-gray-600 text-sm sm:text-base leading-relaxed sm:leading-loose">
+                <p class="text-gray-600 text-lg leading-relaxed sm:leading-loose">
                     <?= esc($sithak['description_2']) ?>
                 </p>
             </div>
@@ -64,7 +64,7 @@ $sithak = include APPPATH . 'Data/sithak-data.php';
         <!-- Highlights Section -->
         <div class="mt-12 sm:mt-16 md:mt-20 lg:mt-24">
             <div class="text-center mb-8 sm:mb-10 md:mb-12">
-                <span class="inline-block uppercase tracking-[2px] sm:tracking-[3px] md:tracking-[4px] text-[10px] sm:text-[11px] md:text-xs text-[#C09130] font-semibold">
+                <span class="inline-block uppercase tracking-[2px] sm:tracking-[3px] md:tracking-[4px] text-[16px] text-[#C09130] font-semibold">
                     Why Choose Sithak
                 </span>
                 <h3 class="font-serif text-2xl sm:text-3xl md:text-4xl text-[#111] mt-2 sm:mt-3">
@@ -77,9 +77,9 @@ $sithak = include APPPATH . 'Data/sithak-data.php';
                 <?php foreach ($sithak['highlights'] as $item): ?>
                     <div class="flex items-start gap-3 sm:gap-4 bg-[#faf8f3] p-4 sm:p-5 md:p-6 rounded-xl sm:rounded-2xl border border-[#f1e8d2] hover:border-[#C09130] transition-all duration-300 hover:shadow-md">
                         <div class="flex-shrink-0 w-7 h-7 sm:w-8 sm:h-8 md:w-9 md:h-9 rounded-full bg-[#C09130] text-white flex items-center justify-center mt-0.5">
-                            <i class="fa-solid fa-check text-xs sm:text-sm"></i>
+                            <i class="fa-solid fa-check text-lg"></i>
                         </div>
-                        <p class="text-gray-700 text-sm sm:text-base leading-relaxed flex-1">
+                        <p class="text-gray-700 text-lg leading-relaxed flex-1">
                             <?= esc($item) ?>
                         </p>
                     </div>

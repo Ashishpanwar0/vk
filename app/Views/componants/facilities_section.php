@@ -10,7 +10,7 @@ $facilities = include APPPATH . 'Data/facilities.php';
 
         <div class="text-center mb-14">
 
-            <span class="uppercase tracking-[4px] text-gold text-xs font-semibold">
+            <span class="uppercase tracking-[4px] text-gold text-lg font-bold font-semibold">
                 HOTEL FACILITIES
             </span>
 
@@ -37,7 +37,7 @@ $facilities = include APPPATH . 'Data/facilities.php';
                         <?= esc($item['title']) ?>
                     </h3>
 
-                    <p class="text-gray-600">
+                    <p class="text-gray-600 text-lg">
                         <?= esc($item['description']) ?>
                     </p>
 

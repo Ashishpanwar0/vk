@@ -6,7 +6,7 @@
             <!-- Left Content -->
             <div>
 
-                <span class="uppercase tracking-[4px] text-[#D4A843] text-xs">
+                <span class="uppercase tracking-[4px] text-[#D4A843] text-lg font-bold">
                     YOUR NEXT STAY AWAITS
                 </span>
 
@@ -18,7 +18,7 @@
                     Up to 20%
                 </p>
 
-                <p class="text-gray-400 mt-6 max-w-lg leading-relaxed">
+                <p class="text-gray-400 mt-6 max-w-lg leading-relaxed text-lg">
                     Get the absolute best rates when you book directly with us —
                     no hidden fees, flexible dates, instant confirmation and premium hospitality.
                 </p>
@@ -63,11 +63,11 @@
 
                         </div>
 
-                        <h3 class="text-white text-3xl font-serif mb-3">
+                        <h3 class="text-white text-3xl font-serif mb-3 font-bold">
                             Need Assistance?
                         </h3>
 
-                        <p class="text-white/80 mb-8 max-w-sm">
+                        <p class="text-white/80 mb-8 max-w-sm text-lg">
                             Our reservation team is available to help you with room bookings, events and special requests.
                         </p>
 
@@ -75,7 +75,7 @@
 
                             <a href="https://wa.me/918052065111"
                                target="_blank"
-                               class="bg-green-500 hover:bg-green-600 text-white px-6 py-3 rounded-full font-medium transition flex items-center gap-2">
+                               class="bg-green hover:bg-gold text-white px-6 py-3 rounded-full font-medium transition flex items-center gap-2">
 
                                 <i class="fab fa-whatsapp"></i>
                                 WhatsApp

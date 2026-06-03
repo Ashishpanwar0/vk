@@ -4,7 +4,7 @@ $slides = include APPPATH . 'Data/hero_slider.php';
 
 ?>
 
-<section class="relative w-full overflow-hidden" style="height: 100svh; max-height: 600px; min-height: 420px;">
+<section class="relative w-full overflow-hidden lg:h-[520px] h-[400px]">
 
     <!-- Slider -->
     <div id="slider" class="flex h-full transition-transform duration-[1500ms] ease-in-out">
@@ -53,14 +53,14 @@ $slides = include APPPATH . 'Data/hero_slider.php';
 
                                 <?= esc($slide['title_1']) ?>
 
-                                <span class="block italic text-[#D4A843]">
+                                <span class="block italic text-[#D4A843] font-bold">
                                     <?= esc($slide['title_2']) ?>
                                 </span>
 
                             </h1>
 
                             <!-- Description -->
-                            <p class="mt-3 sm:mt-5 text-white/80 text-xs sm:text-sm lg:text-base leading-6 max-w-[500px] hero-desc">
+                            <p class="mt-3 sm:mt-5 text-white/80 text-xs sm:text-sm lg:text-2xl leading-6 max-w-[500px] hero-desc">
                                 <?= esc($slide['description']) ?>
                             </p>
 
@@ -68,7 +68,7 @@ $slides = include APPPATH . 'Data/hero_slider.php';
                             <div class="flex flex-col sm:flex-row gap-2 sm:gap-4 mt-4 sm:mt-7">
 
                                 <a href="<?= base_url($slide['button_1_link']) ?>"
-                                    class="px-6 py-3 rounded-full bg-[#D4A843] text-black font-semibold uppercase tracking-wider hover:scale-105 transition-all duration-300 text-center text-xs sm:text-sm hover:bg-[#0F6B5B] hover:text-white">
+                                    class="px-6 py-3 rounded-full bg-[#D4A843] text-black font-semibold uppercase tracking-wider hover:scale-105 transition-all duration-300 text-center text-xs sm:text-sm hover:bg-[#0F6B5B] hover:text-white font-bold">
 
                                     <i class="fa-solid fa-calendar-check mr-2"></i>
                                     <?= esc($slide['button_1_text']) ?>
@@ -76,7 +76,7 @@ $slides = include APPPATH . 'Data/hero_slider.php';
                                 </a>
 
                                 <a href="<?= base_url($slide['button_2_link']) ?>"
-                                    class="px-6 py-3 rounded-full border border-white/30 text-white uppercase tracking-wider hover:bg-white/10 transition-all duration-300 text-center text-xs sm:text-sm">
+                                    class="px-6 py-3 rounded-full border border-white/30 text-white uppercase tracking-wider hover:bg-white/10 transition-all duration-300 text-center text-xs sm:text-sm font-bold">
 
                                     <?= esc($slide['button_2_text']) ?>
 

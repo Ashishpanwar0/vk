@@ -26,7 +26,7 @@ $icons = [
     <div class="flex flex-col lg:flex-row lg:items-center lg:justify-between gap-5 mb-12">
 
         <div>
-            <span class="uppercase tracking-[4px] text-[#D4A843] text-sm">
+            <span class="uppercase tracking-[4px] text-[#D4A843] text-xl font-bold">
                 ACCOMMODATION
             </span>
 

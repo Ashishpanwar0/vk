@@ -3,7 +3,7 @@
     <!-- Top Border -->
     <div class="h-px bg-gradient-to-r from-transparent via-[#C09130]/40 to-transparent"></div>
     
-    <div class="max-w-[1400px] mx-auto px-4 sm:px-6 lg:px-10 xl:px-14 py-12 sm:py-16 lg:py-20">
+    <div class="max-w-[1400px] mx-auto px-4 sm:px-6 lg:px-10 xl:px-14 py-12 sm:py-16 lg:py-10">
         
         <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8 md:gap-10 lg:gap-12">
             
@@ -14,80 +14,80 @@
                         VK
                     </div>
                     <div>
-                        <h3 class="text-xl md:text-2xl font-semibold">VK Grand Hotel</h3>
-                        <p class="text-[10px] tracking-[3px] uppercase text-gold mt-1">Kannauj • UP</p>
+                        <h3 class="text-2xl md:text-3xl font-semibold">VK Grand Hotel</h3>
+                        <p class="text-sm tracking-[3px] uppercase text-gold mt-1">Kannauj • UP</p>
                     </div>
                 </div>
                 
-                <p class="text-gray-400 leading-relaxed text-sm md:text-base max-w-[280px]">
+                <p class="text-gray-400 leading-relaxed text-lg md:text-[17px] max-w-[280px]">
                     Kannauj's premier luxury hotel offering world-class hospitality since our founding.
                 </p>
                 
                 <div class="flex items-center gap-3 mt-6">
                     <a href="#" class="w-10 h-10 rounded-full bg-white/5 hover:bg-gold hover:text-dark transition-all duration-300 flex items-center justify-center text-gray-300 hover:text-dark">
-                        <i class="fab fa-facebook-f text-sm"></i>
+                        <i class="fab fa-facebook-f text-2xl"></i>
                     </a>
                     <a href="#" class="w-10 h-10 rounded-full bg-white/5 hover:bg-gold hover:text-dark transition-all duration-300 flex items-center justify-center text-gray-300 hover:text-dark">
-                        <i class="fab fa-instagram text-sm"></i>
+                        <i class="fab fa-instagram text-2xl"></i>
                     </a>
                     <a href="#" class="w-10 h-10 rounded-full bg-white/5 hover:bg-gold hover:text-dark transition-all duration-300 flex items-center justify-center text-gray-300 hover:text-dark">
-                        <i class="fab fa-youtube text-sm"></i>
+                        <i class="fab fa-youtube text-2xl"></i>
                     </a>
                     <a href="#" class="w-10 h-10 rounded-full bg-white/5 hover:bg-gold hover:text-dark transition-all duration-300 flex items-center justify-center text-gray-300 hover:text-dark">
-                        <i class="fab fa-whatsapp text-sm"></i>
+                        <i class="fab fa-whatsapp text-2xl"></i>
                     </a>
                 </div>
             </div>
             
             <!-- Quick Links -->
             <div>
-                <h4 class="uppercase tracking-[2px] text-sm font-semibold text-gold mb-6">Quick Links</h4>
+                <h4 class="uppercase tracking-[2px] text-2xl md:text-3xl font-semibold text-gold mb-6">Quick Links</h4>
                 <ul class="space-y-3">
-                    <li><a href="<?= base_url('/') ?>" class="text-gray-400 hover:text-gold transition-colors duration-300 text-sm md:text-base">Home</a></li>
-                    <li><a href="<?= base_url('about') ?>" class="text-gray-400 hover:text-gold transition-colors duration-300 text-sm md:text-base">About Us</a></li>
-                    <li><a href="<?= base_url('rooms') ?>" class="text-gray-400 hover:text-gold transition-colors duration-300 text-sm md:text-base">Our Rooms</a></li>
-                    <li><a href="<?= base_url('contact') ?>" class="text-gray-400 hover:text-gold transition-colors duration-300 text-sm md:text-base">Contact Us</a></li>
-                    <li><a href="<?= base_url('book-now') ?>" class="text-gray-400 hover:text-gold transition-colors duration-300 text-sm md:text-base">Book Now</a></li>
+                    <li><a href="<?= base_url('/') ?>" class="text-gray-400 hover:text-gold transition-colors duration-300 text-lg md:text-[17px]">Home</a></li>
+                    <li><a href="<?= base_url('about') ?>" class="text-gray-400 hover:text-gold transition-colors duration-300 text-lg md:text-[17px]">About Us</a></li>
+                    <li><a href="<?= base_url('rooms') ?>" class="text-gray-400 hover:text-gold transition-colors duration-300 text-lg md:text-[17px]">Our Rooms</a></li>
+                    <li><a href="<?= base_url('contact') ?>" class="text-gray-400 hover:text-gold transition-colors duration-300 text-lg md:text-[17px]">Contact Us</a></li>
+                    <li><a href="<?= base_url('book-now') ?>" class="text-gray-400 hover:text-gold transition-colors duration-300 text-lg md:text-[17px]">Book Now</a></li>
                 </ul>
             </div>
             
             <!-- Our Venues -->
             <div>
-                <h4 class="uppercase tracking-[2px] text-sm font-semibold text-gold mb-6">Our Venues</h4>
+                <h4 class="uppercase tracking-[2px] text-2xl md:text-3xl font-semibold text-gold mb-6">Our Venues</h4>
                 <ul class="space-y-3">
-                    <li><a href="<?= base_url('banquet') ?>" class="text-gray-400 hover:text-gold transition-colors duration-300 text-sm md:text-base">Banquet Hall</a></li>
-                    <li><a href="<?= base_url('lawn') ?>" class="text-gray-400 hover:text-gold transition-colors duration-300 text-sm md:text-base">Lawn</a></li>
-                    <li><a href="<?= base_url('mawa') ?>" class="text-gray-400 hover:text-gold transition-colors duration-300 text-sm md:text-base">MAWA Restaurant</a></li>
-                    <li><a href="<?= base_url('baithak') ?>" class="text-gray-400 hover:text-gold transition-colors duration-300 text-sm md:text-base">BAITHAK Lounge</a></li>
+                    <li><a href="<?= base_url('banquet') ?>" class="text-gray-400 hover:text-gold transition-colors duration-300 text-lg md:text-[17px]">Banquet Hall</a></li>
+                    <li><a href="<?= base_url('lawn') ?>" class="text-gray-400 hover:text-gold transition-colors duration-300 text-lg md:text-[17px]">Lawn</a></li>
+                    <li><a href="<?= base_url('mawa') ?>" class="text-gray-400 hover:text-gold transition-colors duration-300 text-lg md:text-[17px]">MAWA Restaurant</a></li>
+                    <li><a href="<?= base_url('baithak') ?>" class="text-gray-400 hover:text-gold transition-colors duration-300 text-lg md:text-[17px]">BAITHAK Lounge</a></li>
                 </ul>
             </div>
             
             <!-- Contact Info -->
             <div>
-                <h4 class="uppercase tracking-[2px] text-sm font-semibold text-gold mb-6">Contact Info</h4>
+                <h4 class="uppercase tracking-[2px] text-2xl md:text-3xl font-semibold text-gold mb-6">Contact Info</h4>
                 <div class="space-y-4">
                     <div class="flex items-start gap-3">
                         <i class="fa-solid fa-location-dot text-gold text-base mt-1"></i>
-                        <p class="text-gray-400 leading-relaxed text-sm md:text-base">
+                        <p class="text-gray-400 leading-relaxed text-lg md:text-[17px]">
                             Main Road, Kannauj<br>
                             Uttar Pradesh 209725
                         </p>
                     </div>
                     <div class="flex items-center gap-3">
                         <i class="fa-solid fa-phone text-gold text-base"></i>
-                        <a href="tel:+918052065111" class="text-gray-400 hover:text-gold transition-colors duration-300 text-sm md:text-base">
+                        <a href="tel:+918052065111" class="text-gray-400 hover:text-gold transition-colors duration-300 text-lg md:text-[17px]">
                             +91 80520 65111
                         </a>
                     </div>
                     <div class="flex items-center gap-3">
                         <i class="fa-solid fa-envelope text-gold text-base"></i>
-                        <a href="mailto:info@vkgrand.com" class="text-gray-400 hover:text-gold transition-colors duration-300 text-sm md:text-base">
+                        <a href="mailto:info@vkgrand.com" class="text-gray-400 hover:text-gold transition-colors duration-300 text-lg md:text-[17px]">
                             info@vkgrand.com
                         </a>
                     </div>
                     <div class="flex items-center gap-3">
                         <i class="fa-regular fa-clock text-gold text-base"></i>
-                        <p class="text-gray-400 text-sm md:text-base">
+                        <p class="text-gray-400 text-lg md:text-[17px]">
                             24/7 Guest Service
                         </p>
                     </div>
@@ -98,18 +98,18 @@
         <!-- Bottom Section -->
         <div class="border-t border-white/10 mt-10 sm:mt-12 lg:mt-16 pt-6 sm:pt-8">
             <div class="flex flex-col sm:flex-row items-center justify-between gap-4">
-                <p class="text-gray-500 text-xs sm:text-sm text-center sm:text-left">
+                <p class="text-gray-500 text-sm sm:text-base text-center sm:text-left">
                     © <?= date('Y') ?> VK Grand Hotel, Kannauj. All rights reserved.
                 </p>
                 
                 <div class="flex items-center gap-4 sm:gap-6">
-                    <a href="#" class="text-gray-500 hover:text-gold transition-colors duration-300 text-xs sm:text-sm">
+                    <a href="#" class="text-gray-500 hover:text-gold transition-colors duration-300 text-sm">
                         Privacy Policy
                     </a>
-                    <a href="#" class="text-gray-500 hover:text-gold transition-colors duration-300 text-xs sm:text-sm">
+                    <a href="#" class="text-gray-500 hover:text-gold transition-colors duration-300 text-sm">
                         Terms & Conditions
                     </a>
-                    <a href="#" class="text-gray-500 hover:text-gold transition-colors duration-300 text-xs sm:text-sm">
+                    <a href="#" class="text-gray-500 hover:text-gold transition-colors duration-300 text-sm">
                         Sitemap
                     </a>
                 </div>

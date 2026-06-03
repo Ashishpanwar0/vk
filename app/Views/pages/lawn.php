@@ -8,57 +8,122 @@
 ]) ?>
 
 <!-- Lawns Section -->
-<section class="py-8 sm:py-12 md:py-16 bg-white">
-    <div class="gird grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        
-        <!-- Silver Lawn -->
-        <div class="gap-8 lg:gap-12 mb-16 md:mb-20">
-            <!-- <img src="<?= base_url('assets/images/lawn/silver-lawn-bg.webp') ?>" alt="Silver Lawn" class="w-full h-64 sm:h-80 md:h-96 lg:h-[400px] object-cover rounded-xl shadow-lg"> -->
-            <div>
-                <span class="uppercase tracking-[3px] text-[11px] text-[#C09130] font-semibold">Outdoor Venue</span>
-                <h2 class="font-serif text-2xl sm:text-3xl md:text-4xl lg:text-5xl text-[#111] mt-2"><?= esc($lawn['lawns']['silver']['name']) ?></h2>
-                <div class="flex flex-wrap gap-3 mt-2 text-sm text-gray-600">
-                    <span><i class="fa-solid fa-arrows-up-down-left-right text-[#C09130]"></i> <?= esc($lawn['lawns']['silver']['area']) ?></span>
-                    <span><i class="fa-solid fa-users text-[#C09130]"></i> <?= esc($lawn['lawns']['silver']['capacity']) ?></span>
-                </div>
-                <div class="w-16 h-0.5 bg-[#C09130] my-4"></div>
-                <p class="text-gray-600 text-sm md:text-base leading-relaxed mb-4"><?= esc($lawn['lawns']['silver']['description']) ?></p>
-                <span class="inline-block bg-[#C09130] text-white px-6 py-2 rounded-full text-sm font-semibold"><?= esc($lawn['lawns']['silver']['price']) ?></span>
-            </div>
+<!-- Lawns Section -->
+<section class="py-12 md:py-16 bg-white">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+
+        <div class="text-center mb-12">
+            <span class="uppercase tracking-[3px] text-[16px] text-[#C09130] font-semibold">
+                Our Premium Lawns
+            </span>
+            <h2 class="font-serif text-4xl md:text-5xl text-[#111] mt-3">
+                Choose Your Perfect Venue
+            </h2>
+            <div class="w-20 h-0.5 bg-[#C09130] mx-auto mt-4"></div>
         </div>
-        
-        <!-- Gold Lawn -->
-        <div class=" gap-8 lg:gap-12 mb-16 md:mb-20">
-            <div class="order-2 lg:order-1">
-                <span class="uppercase tracking-[3px] text-[11px] text-[#C09130] font-semibold">Premium Lawn</span>
-                <h2 class="font-serif text-2xl sm:text-3xl md:text-4xl lg:text-5xl text-[#111] mt-2"><?= esc($lawn['lawns']['gold']['name']) ?></h2>
-                <div class="flex flex-wrap gap-3 mt-2 text-sm text-gray-600">
-                    <span><i class="fa-solid fa-arrows-up-down-left-right text-[#C09130]"></i> <?= esc($lawn['lawns']['gold']['area']) ?></span>
-                    <span><i class="fa-solid fa-users text-[#C09130]"></i> <?= esc($lawn['lawns']['gold']['capacity']) ?></span>
+
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+
+            <!-- Silver Lawn -->
+            <div class="bg-white rounded-2xl shadow-lg border border-gray-100 p-8 hover:shadow-2xl transition-all duration-300">
+                <span class="uppercase tracking-[3px] text-[14px] text-[#C09130] font-semibold">
+                    Outdoor Venue
+                </span>
+
+                <h3 class="font-serif text-3xl mt-3 mb-4 text-[#111]">
+                    <?= esc($lawn['lawns']['silver']['name']) ?>
+                </h3>
+
+                <div class="flex flex-col gap-2 text-lg text-gray-600 mb-5">
+                    <span>
+                        <i class="fa-solid fa-arrows-up-down-left-right text-[#C09130]"></i>
+                        <?= esc($lawn['lawns']['silver']['area']) ?>
+                    </span>
+
+                    <span>
+                        <i class="fa-solid fa-users text-[#C09130]"></i>
+                        <?= esc($lawn['lawns']['silver']['capacity']) ?>
+                    </span>
                 </div>
-                <div class="w-16 h-0.5 bg-[#C09130] my-4"></div>
-                <p class="text-gray-600 text-sm md:text-base leading-relaxed mb-4"><?= esc($lawn['lawns']['gold']['description']) ?></p>
-                <span class="inline-block bg-[#C09130] text-white px-6 py-2 rounded-full text-sm font-semibold"><?= esc($lawn['lawns']['gold']['price']) ?></span>
+
+                <div class="w-16 h-0.5 bg-[#C09130] mb-5"></div>
+
+                <p class="text-lg text-gray-600 leading-relaxed mb-6">
+                    <?= esc($lawn['lawns']['silver']['description']) ?>
+                </p>
+
+                <span class="inline-block bg-[#C09130] text-white px-6 py-3 rounded-full text-lg font-semibold">
+                    <?= esc($lawn['lawns']['silver']['price']) ?>
+                </span>
             </div>
-            <!-- <img src="<?= base_url('assets/images/lawn/gold-lawn-bg.webp') ?>" alt="Gold Lawn" class="order-1 lg:order-2 w-full h-64 sm:h-80 md:h-96 lg:h-[400px] object-cover rounded-xl shadow-lg"> -->
-        </div>
-        
-        <!-- Platinum Lawn -->
-        <div class=" gap-8 lg:gap-12">
-            <!-- <img src="<?= base_url('assets/images/lawn/platinum-lawn-bg.webp') ?>" alt="Platinum Lawn" class="w-full h-64 sm:h-80 md:h-96 lg:h-[400px] object-cover rounded-xl shadow-lg"> -->
-            <div>
-                <span class="uppercase tracking-[3px] text-[11px] text-[#C09130] font-semibold">Luxury Lawn</span>
-                <h2 class="font-serif text-2xl sm:text-3xl md:text-4xl lg:text-5xl text-[#111] mt-2"><?= esc($lawn['lawns']['platinum']['name']) ?></h2>
-                <div class="flex flex-wrap gap-3 mt-2 text-sm text-gray-600">
-                    <span><i class="fa-solid fa-arrows-up-down-left-right text-[#C09130]"></i> <?= esc($lawn['lawns']['platinum']['area']) ?></span>
-                    <span><i class="fa-solid fa-users text-[#C09130]"></i> <?= esc($lawn['lawns']['platinum']['capacity']) ?></span>
+
+            <!-- Gold Lawn -->
+            <div class="bg-white rounded-2xl shadow-lg border border-gray-100 p-8 hover:shadow-2xl transition-all duration-300">
+                <span class="uppercase tracking-[3px] text-[14px] text-[#C09130] font-semibold">
+                    Premium Lawn
+                </span>
+
+                <h3 class="font-serif text-3xl mt-3 mb-4 text-[#111]">
+                    <?= esc($lawn['lawns']['gold']['name']) ?>
+                </h3>
+
+                <div class="flex flex-col gap-2 text-lg text-gray-600 mb-5">
+                    <span>
+                        <i class="fa-solid fa-arrows-up-down-left-right text-[#C09130]"></i>
+                        <?= esc($lawn['lawns']['gold']['area']) ?>
+                    </span>
+
+                    <span>
+                        <i class="fa-solid fa-users text-[#C09130]"></i>
+                        <?= esc($lawn['lawns']['gold']['capacity']) ?>
+                    </span>
                 </div>
-                <div class="w-16 h-0.5 bg-[#C09130] my-4"></div>
-                <p class="text-gray-600 text-sm md:text-base leading-relaxed mb-4"><?= esc($lawn['lawns']['platinum']['description']) ?></p>
-                <span class="inline-block bg-[#C09130] text-white px-6 py-2 rounded-full text-sm font-semibold"><?= esc($lawn['lawns']['platinum']['price']) ?></span>
+
+                <div class="w-16 h-0.5 bg-[#C09130] mb-5"></div>
+
+                <p class="text-lg text-gray-600 leading-relaxed mb-6">
+                    <?= esc($lawn['lawns']['gold']['description']) ?>
+                </p>
+
+                <span class="inline-block bg-[#C09130] text-white px-6 py-3 rounded-full text-lg font-semibold">
+                    <?= esc($lawn['lawns']['gold']['price']) ?>
+                </span>
             </div>
+
+            <!-- Platinum Lawn -->
+            <div class="bg-white rounded-2xl shadow-lg border border-gray-100 p-8 hover:shadow-2xl transition-all duration-300">
+                <span class="uppercase tracking-[3px] text-[14px] text-[#C09130] font-semibold">
+                    Luxury Lawn
+                </span>
+
+                <h3 class="font-serif text-3xl mt-3 mb-4 text-[#111]">
+                    <?= esc($lawn['lawns']['platinum']['name']) ?>
+                </h3>
+
+                <div class="flex flex-col gap-2 text-lg text-gray-600 mb-5">
+                    <span>
+                        <i class="fa-solid fa-arrows-up-down-left-right text-[#C09130]"></i>
+                        <?= esc($lawn['lawns']['platinum']['area']) ?>
+                    </span>
+
+                    <span>
+                        <i class="fa-solid fa-users text-[#C09130]"></i>
+                        <?= esc($lawn['lawns']['platinum']['capacity']) ?>
+                    </span>
+                </div>
+
+                <div class="w-16 h-0.5 bg-[#C09130] mb-5"></div>
+
+                <p class="text-lg text-gray-600 leading-relaxed mb-6">
+                    <?= esc($lawn['lawns']['platinum']['description']) ?>
+                </p>
+
+                <span class="inline-block bg-[#C09130] text-white px-6 py-3 rounded-full text-lg font-semibold">
+                    <?= esc($lawn['lawns']['platinum']['price']) ?>
+                </span>
+            </div>
+
         </div>
-        
     </div>
 </section>
 
@@ -66,7 +131,7 @@
 <section class="py-8 sm:py-12 md:py-16 bg-[#faf8f3]">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="text-center mb-8 md:mb-10">
-            <span class="uppercase tracking-[3px] text-[11px] text-[#C09130] font-semibold">Why Choose Us</span>
+            <span class="uppercase tracking-[3px] text-[16px] text-[#C09130] font-semibold">Why Choose Us</span>
             <h3 class="font-serif text-2xl sm:text-3xl md:text-4xl text-[#111] mt-2">Lawn Highlights</h3>
             <div class="w-16 h-0.5 bg-[#C09130] mx-auto mt-3"></div>
         </div>
@@ -75,7 +140,7 @@
             <?php foreach ($lawn['highlights'] as $highlight): ?>
                 <div class="flex items-center gap-2 bg-white p-3 sm:p-4 rounded-lg shadow-sm hover:shadow-md transition">
                     <i class="fa-solid fa-circle-check text-[#C09130] text-sm"></i>
-                    <span class="text-gray-700 text-xs sm:text-sm"><?= esc($highlight) ?></span>
+                    <span class="text-gray-700 text-xs sm:text-lg"><?= esc($highlight) ?></span>
                 </div>
             <?php endforeach; ?>
         </div>
@@ -86,7 +151,7 @@
 <section class="py-8 sm:py-12 md:py-16 bg-white">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="text-center mb-8 md:mb-10">
-            <span class="uppercase tracking-[3px] text-[11px] text-[#C09130] font-semibold">Our Gallery</span>
+            <span class="uppercase tracking-[3px] text-[16px] text-[#C09130] font-semibold">Our Gallery</span>
             <h3 class="font-serif text-2xl sm:text-3xl md:text-4xl text-[#111] mt-2">Lawn Views</h3>
             <div class="w-16 h-0.5 bg-[#C09130] mx-auto mt-3"></div>
         </div>

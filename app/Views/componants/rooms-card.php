@@ -43,7 +43,7 @@ $icons = [
     <!-- Heading -->
     <div class="text-center mb-10">
 
-        <span class="uppercase tracking-[4px] text-[#D4A843] text-sm">
+        <span class="uppercase tracking-[4px] text-[#D4A843] text-lg font-bold">
             ACCOMMODATION
         </span>
 

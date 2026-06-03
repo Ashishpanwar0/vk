@@ -38,7 +38,7 @@
                     Stay?
                 </h2>
 
-                <p class="text-gray-400 mt-6 text-lg max-w-xl">
+                <p class="text-gray-400 mt-6 text-xl max-w-xl">
                     Book directly for the best rates and exclusive offers.
                     Our team is ready to make your stay exceptional.
                 </p>
