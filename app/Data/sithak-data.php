@@ -23,10 +23,11 @@ return [
 
     'gallery' => [
 
-        'assets/images/sithak/slider-1.webp',
-        'assets/images/sithak/slider-2.webp',
-        'assets/images/sithak/slider-3.webp',
-        'assets/images/sithak/slider-4.webp',
-
+        'Hero-image/Baithak/vk-Baithak (9).webp',
+        'Hero-image/Baithak/vk-Baithak (10).webp',
+        'Hero-image/Baithak/vk-Baithak (12).webp',
+        'Hero-image/Baithak/vk-Baithak (7).webp',
+        'Hero-image/Baithak/vk-Baithak (2).webp',
+        'Hero-image/Baithak/vk-Baithak (1).webp',
     ]
 ];

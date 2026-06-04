@@ -10,10 +10,10 @@ $maat = [
 
     'gallery' => [
 
-        'uploads/restaurant/maat-1.webp',
-        'uploads/restaurant/maat-2.webp',
-        'uploads/restaurant/maat-3.webp',
-        'uploads/restaurant/maat-4.webp',
+        'Hero-image/Maava/vk-mawa (5).webp',
+        'Hero-image/Maava/vk-mawa (4).webp',
+        'Hero-image/Maava/vk-mawa (2).webp',
+        'Hero-image/Maava/vk-mawa (6).webp',
 
     ],
 

@@ -42,11 +42,10 @@ return [
     ],
     
     'gallery' => [
-        'assets/images/lawn/silver-lawn-1.webp',
-        'assets/images/lawn/silver-lawn-2.webp',
-        'assets/images/lawn/gold-lawn-1.webp',
-        'assets/images/lawn/gold-lawn-2.webp',
-        'assets/images/lawn/platinum-lawn-1.webp',
-        'assets/images/lawn/platinum-lawn-2.webp'
+        'Hero-image/lawan/lawan (7).webp',
+        'Hero-image/lawan/lawan (3).webp',
+        'Hero-image/lawan/lawan (2).webp',
+        'Hero-image/lawan/lawan (4).webp',
+        'Hero-image/lawan/lawan (1).webp',
     ]
 ];

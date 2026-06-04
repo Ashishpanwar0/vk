@@ -38,7 +38,7 @@ return [
 
     'description' => 'From weddings and receptions to corporate gatherings, our ballrooms and expansive lawns create unforgettable occasions.',
 
-    'image' => 'Hero-image/Hero-logo-image/slider-3.webp',
+    'image' => 'Hero-image/Hero-logo-image/vk-grand.webp',
 
     'button_1_text' => 'View Venues',
     'button_1_link' => 'venue',

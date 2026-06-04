@@ -12,40 +12,40 @@ $experienceCards = [
         'title' => 'Luxury Accommodation',
         'images' => [
             base_url('Hero-image/Hero-logo-image/show-case-6.webp'),
-            base_url('Hero-image/Hero-logo-image/vk-grand-slider-2.webp'),
-            base_url('Hero-image/Hero-logo-image/vk-grand (2).webp')
+            base_url('Hero-image/Hero-logo-image/vk-grand-slider-1.webp'),
+            base_url('Hero-image/Hero-logo-image/vk-grand-img.webp')
         ]
     ],
     [
         'title' => 'Premium Rooms',
         'images' => [
-            base_url('Hero-image/Hero-logo-image/vk-grand-slider-2.webp'),
-            base_url('Hero-image/Image-Other/DSC09659.webp'),
-            base_url('Hero-image/Hero-logo-image/show-case-6.webp')
+            base_url('Hero-image/Rooms-Img/vk-Rooms (9).webp'),
+            base_url('Hero-image/Rooms-Img/vk-Rooms (10).webp'),
+            base_url('Hero-image/Rooms-Img/vk-Rooms (13).webp')
         ]
     ],
     [
         'title' => 'Fine Dining',
         'images' => [
-            base_url('Hero-image/Image-Other/DSC09659.webp'),
-            base_url('Hero-image/Hero-logo-image/show-case-6.webp'),
-            base_url('Hero-image/Hero-logo-image/vk-grand (2).webp')
+            base_url('Hero-image/Maava/vk-mawa (4).webp'),
+            base_url('Hero-image/Maava/vk-mawa (5).webp'),
+            base_url('Hero-image/Maava/vk-mawa (6).webp')
         ]
     ],
     [
         'title' => 'Event Venues',
         'images' => [
-            base_url('Hero-image/Hero-logo-image/show-case-6.webp'),
-            base_url('Hero-image/Hero-logo-image/vk-grand-slider-2.webp'),
-            base_url('Hero-image/Image-Other/DSC09659.webp')
+            base_url('Hero-image/Banquet/vk-Banquet (6).webp'),
+            base_url('Hero-image/Banquet/vk-Banquet (7).webp'),
+            base_url('Hero-image/Banquet/vk-Banquet (5).webp')
         ]
     ],
     [
-        'title' => 'Spa & Wellness',
+        'title' => 'Lawan',
         'images' => [
-            base_url('Hero-image/Hero-logo-image/vk-grand (2).webp'),
-            base_url('Hero-image/Hero-logo-image/show-case-6.webp'),
-            base_url('Hero-image/Image-Other/DSC09659.webp')
+            base_url('Hero-image/lawan/lawan (7).webp'),
+            base_url('Hero-image/lawan/lawan (3).webp'),
+            base_url('Hero-image/lawan/lawan (5).webp')
         ]
     ]
 ];

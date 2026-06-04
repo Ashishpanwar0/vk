@@ -68,7 +68,7 @@
                 <!-- Main Image -->
                 <div class="h-[450px] rounded-3xl overflow-hidden shadow-2xl">
 
-                    <img src="<?= base_url('uploads/about-hotel.jpg') ?>"
+                    <img src="<?= base_url('Hero-image/Hero-logo-image/show-case-6.webp') ?>"
                         alt="VK Grand Hotel"
                         class="w-full h-full object-cover">
 
@@ -389,7 +389,7 @@
                 <div class="relative overflow-hidden rounded-3xl shadow-xl">
 
                     <img
-                        src="<?= base_url('uploads/hotel-history.jpg'); ?>"
+                        src="<?= base_url('Hero-image/Hero-logo-image/vk-grand-slider-1.webp'); ?>"
                         alt="VK Grand Hotel"
                         class="w-full h-[500px] object-cover">
 

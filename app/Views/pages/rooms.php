@@ -3,7 +3,7 @@
 
         'title' => 'Rooms',
         'subtitle' => 'Welcome to VK Grand',
-        'bg' => 'Hero-image/Hero-logo-image/slider-3.webp'
+        'bg' => 'Hero-image/Rooms-Img/Vk-Rooms (2).webp'
 
     ]) ?>
   

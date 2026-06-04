@@ -12,7 +12,7 @@ return [
             'Weddings & Receptions',
             'Corporate Events',
             'Birthday Celebrations',
-            'Social Gatherings',
+            'Social Gatherings',         
             'Customizable Decor',
             'Modern Lighting & Sound',
             'Professional Event Support',
@@ -40,11 +40,11 @@ return [
     ],
 
     'gallery' => [
-        'assets/images/banquet/gallery-1.webp',
-        'assets/images/banquet/gallery-2.webp',
-        'assets/images/banquet/gallery-3.webp',
-        'assets/images/banquet/gallery-4.webp',
-        'assets/images/banquet/gallery-5.webp',
-        'assets/images/banquet/gallery-6.webp',
+        'Hero-image/Banquet/vk-Banquet (6).webp',
+        'Hero-image/Banquet/vk-Banquet (7).webp',
+        'Hero-image/Banquet/vk-Banquet (5).webp',
+        'Hero-image/Banquet/vk-Banquet (3).webp',
+        'Hero-image/Banquet/vk-Banquet (4).webp',
+        'Hero-image/Banquet/vk-Banquet (2).webp',
     ]
 ];

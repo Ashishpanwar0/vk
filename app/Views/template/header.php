@@ -104,7 +104,7 @@
                     </button>
                     <div class="absolute top-full left-1/2 -translate-x-1/2 mt-4 bg-white min-w-[220px] rounded-2xl shadow-2xl opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all py-2 border border-gray-100 z-50">
                         <a href="<?= base_url('mawa') ?>" class="block px-6 py-3 text-[17px] font-medium hover:bg-gray-50 hover:text-gold transition-colors">
-                            <i class="fa-solid fa-utensils text-gold mr-3 text-sm"></i> MAWA
+                            <i class="fa-solid fa-utensils text-gold mr-3 text-sm"></i>MAAVA
                         </a>
                         <a href="<?= base_url('baithak') ?>" class="block px-6 py-3 text-[17px] font-medium hover:bg-gray-50 hover:text-gold transition-colors">
                             <i class="fa-solid fa-mug-hot text-gold mr-3 text-sm"></i> BAITHAK

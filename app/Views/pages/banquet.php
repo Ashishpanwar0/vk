@@ -12,7 +12,7 @@
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         
         <div class="flex flex-col lg:grid lg:grid-cols-2 gap-8 lg:gap-12 mb-16 md:mb-20">
-            <img src="<?= base_url('assets/images/banquet/lavender-bg.webp') ?>" alt="Lavender Ballroom" class="w-full h-64 sm:h-80 md:h-96 lg:h-[400px] object-cover rounded-xl shadow-lg">
+            <img src="<?= base_url('Hero-image/Banquet/vk-Banquet (6).webp') ?>" alt="Lavender Ballroom" class="w-full h-64 sm:h-80 md:h-96 lg:h-[400px] object-cover rounded-xl shadow-lg">
             <div>
                 <span class="uppercase tracking-[3px] text-[16px] text-[#C09130] font-semibold">Grand Banquet Hall</span>
                 <h2 class="font-serif text-2xl sm:text-3xl md:text-4xl lg:text-5xl text-[#111] mt-2"><?= esc($banquet['lavender']['heading']) ?></h2>
@@ -35,7 +35,7 @@
                 <p class="text-gray-600 text-lg  leading-relaxed mb-4"><?= esc($banquet['orchid']['description_3']) ?></p>
                 <span class="inline-block bg-[#C09130] text-white px-6 py-2 rounded-full text-lg font-semibold"><?= esc($banquet['orchid']['price']) ?></span>
             </div>
-            <img src="<?= base_url('assets/images/banquet/orchid-bg.webp') ?>" alt="Orchid Ballroom" class="order-1 lg:order-2 w-full h-64 sm:h-80 md:h-96 lg:h-[400px] object-cover rounded-xl shadow-lg">
+            <img src="<?= base_url('Hero-image/Banquet/vk-Banquet (3).webp') ?>" alt="Orchid Ballroom" class="order-1 lg:order-2 w-full h-64 sm:h-80 md:h-96 lg:h-[400px] object-cover rounded-xl shadow-lg">
         </div>
         
     </div>

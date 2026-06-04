@@ -48,7 +48,7 @@ $slides = include APPPATH . 'Data/hero_slider.php';
 
                             <!-- Title -->
                             <h1
-                                class="text-white leading-[0.9] font-light hero-title"
+                                class="text-white leading-[0.9] font-light hero-title w-[900px]"
                                 style="font-family:'Cormorant Garamond', serif;">
 
                                 <?= esc($slide['title_1']) ?>
@@ -60,7 +60,7 @@ $slides = include APPPATH . 'Data/hero_slider.php';
                             </h1>
 
                             <!-- Description -->
-                            <p class="mt-3 sm:mt-5 text-white/80 text-xs sm:text-sm lg:text-2xl leading-6 max-w-[500px] hero-desc">
+                            <p class="mt-3 sm:mt-5 text-white/80 text-xs sm:text-sm lg:text-2xl leading-6 max-w-[800px] hero-desc">
                                 <?= esc($slide['description']) ?>
                             </p>
 
