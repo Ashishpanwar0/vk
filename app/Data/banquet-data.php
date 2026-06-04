@@ -4,41 +4,41 @@ return [
     'lavender' => [
         'name' => 'Lavender Ballroom',
         'heading' => 'Lavender Ballroom',
-        'description_1' => 'Our hotel Lavender Hall is the perfect venue for weddings, corporate events, retirement, and consultation. With a warm and beautifully designed setting, we offer top-notch design, customizable decor, and exceptional catering services.',
-        'description_2' => 'Whether it\'s an intimate gathering or a grand wine club, our professional staff provides a seamless experience. We provide state-of-the-art lighting and window systems to enhance your venue. Our cozy chefs create delicious ambrosia to put every beauty ablaze.',
-        'description_3' => 'Parking and directory system planning services make your expression hands-on. Let us help you create unforgettable memories in our elegant banquet hall!',
+        'description_1' => 'Lavender Ballroom at V.K. Grand is an elegant venue designed for weddings, receptions, corporate events, birthday celebrations, and social gatherings. The hall offers a spacious layout, sophisticated interiors, and a luxurious ambiance for memorable occasions.',
+        'description_2' => 'Equipped with modern lighting and sound systems, customizable décor options, and premium catering services, Lavender Ballroom ensures every event is executed flawlessly. Our experienced event team works closely with guests to create unforgettable celebrations.',
+        'description_3' => 'From intimate functions to large-scale events, we provide complete event management support, ample parking facilities, and personalized hospitality to make every occasion truly special.',
         'price' => 'Price On Request',
         'features' => [
             'Weddings & Receptions',
             'Corporate Events',
-            'Retirement Parties',
-            'Consultation Meetings',
+            'Birthday Celebrations',
+            'Social Gatherings',
             'Customizable Decor',
-            'State-of-the-art Lighting',
-            'Professional Staff',
+            'Modern Lighting & Sound',
+            'Professional Event Support',
             'Ample Parking Space'
         ]
     ],
-    
+
     'orchid' => [
         'name' => 'Orchid Ballroom',
         'heading' => 'Orchid Ballroom',
-        'description_1' => 'Our hotel Orchid Ballroom is the perfect venue for corporate events, retirement, and consultation. With a warm and beautifully designed setting, we offer top-notch design, customizable decor, and exceptional catering services.',
-        'description_2' => 'Whether it\'s an intimate gathering or a grand wine club, our professional staff provides a seamless experience. We provide state-of-the-art lighting and window systems to enhance your venue. Our cozy chefs create delicious ambrosia to put every beauty ablaze.',
-        'description_3' => 'Parking and directory system planning services make your expression hands-on. Let us help you create unforgettable memories in our elegant banquet hall!',
+        'description_1' => 'Orchid Ballroom at V.K. Grand is a premium venue ideal for corporate conferences, business meetings, weddings, receptions, and private celebrations. Designed with elegance and comfort in mind, it provides a sophisticated setting for every event.',
+        'description_2' => 'The ballroom features contemporary interiors, advanced audio-visual facilities, flexible seating arrangements, and customized catering solutions. Our dedicated team ensures a smooth and professional event experience from start to finish.',
+        'description_3' => 'Whether hosting a corporate gathering or a family celebration, Orchid Ballroom combines luxury, convenience, and exceptional hospitality to deliver remarkable experiences.',
         'price' => 'Price On Request',
         'features' => [
-            'Corporate Events',
-            'Retirement Parties',
-            'Consultation Meetings',
-            'Product Launches',
+            'Corporate Conferences',
+            'Business Meetings',
+            'Weddings & Receptions',
+            'Private Celebrations',
             'Customizable Decor',
-            'Premium Audio-Visual',
-            'Professional Staff',
-            'Valet Parking'
+            'Advanced Audio-Visual Setup',
+            'Professional Event Team',
+            'Convenient Parking'
         ]
     ],
-    
+
     'gallery' => [
         'assets/images/banquet/gallery-1.webp',
         'assets/images/banquet/gallery-2.webp',

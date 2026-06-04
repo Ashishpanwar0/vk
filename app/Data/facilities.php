@@ -3,39 +3,39 @@
 return [
 
     [
-        'title' => '87 Luxury Rooms',
-        'description' => 'Deluxe, Executive, Jr. Suite & Suite Rooms.',
-        'icon' => 'fa-bed'
-    ],
+    'title' => '87 Luxury Rooms',
+    'description' => 'Comfortable and well-appointed rooms for every traveler.',
+    'icon' => 'fa-bed'
+],
 
-    [
-        'title' => 'Azure Swimming Pool',
-        'description' => 'Relax and rejuvenate with a refreshing dip.',
-        'icon' => 'fa-person-swimming'
-    ],
+[
+    'title' => 'Pure Vegetarian Restaurant',
+    'description' => 'Delicious vegetarian dining with multiple cuisine options.',
+    'icon' => 'fa-utensils'
+],
 
-    [
-        'title' => 'Fitness Centre',
-        'description' => 'Modern gym with premium equipment.',
-        'icon' => 'fa-dumbbell'
-    ],
+[
+    'title' => 'Lavender Ballroom',
+    'description' => 'Elegant venue for weddings, receptions and celebrations.',
+    'icon' => 'fa-champagne-glasses'
+],
 
-    [
-        'title' => 'Spa & Wellness',
-        'description' => 'Spa, Sauna, Steam Room & Jacuzzi.',
-        'icon' => 'fa-spa'
-    ],
+[
+    'title' => 'Orchid Ballroom',
+    'description' => 'Ideal space for corporate events and social gatherings.',
+    'icon' => 'fa-building'
+],
 
-    [
-        'title' => 'Maवा Restaurant',
-        'description' => 'Pure vegetarian multi-cuisine dining experience.',
-        'icon' => 'fa-utensils'
-    ],
+[
+    'title' => 'Silver, Gold & Platinum Lawns',
+    'description' => 'Spacious outdoor venues for grand events and weddings.',
+    'icon' => 'fa-tree'
+],
 
-    [
-        'title' => 'Lavender & Orchid Ballrooms',
-        'description' => 'Elegant venues for weddings, events and celebrations.',
-        'icon' => 'fa-champagne-glasses'
-    ],
+[
+    'title' => 'Ample Parking',
+    'description' => 'Convenient parking facility for guests and event visitors.',
+    'icon' => 'fa-square-parking'
+],
 
 ];
