@@ -2,11 +2,11 @@
 
 $maat = [
 
-    'heading' => 'MAAT | The Signature Vegetarian Restaurant',
+    'heading' => 'Maava | The Signature Vegetarian Restaurant',
 
-    'description_1' => 'Welcome to MAAT, the heart of culinary excellence at VK Grand, where timeless vegetarian traditions are reimagined with a modern twist. Nestled on the ground floor of the hotel, MAAT is an ode to purity, taste, and comfort-offering a refined dining experience in a warm, inviting ambiance.',
+    'description_1' => 'Welcome to Maava, the heart of culinary excellence at V.K. Grand, where timeless vegetarian traditions are reimagined with a modern twist. Located on the ground floor of the hotel, Maava is an ode to purity, taste, and comfort, offering a refined dining experience in a warm and inviting ambiance.',
 
-    'description_2' => 'Whether you are craving classic Indian delicacies or global vegetarian favorites, every dish at MAAT is handcrafted with seasonal ingredients, authentic flavors, and culinary artistry.',
+    'description_2' => 'Whether you are craving classic Indian delicacies or global vegetarian favourites, every dish at Maava is thoughtfully prepared using seasonal ingredients, authentic flavours, and culinary artistry.',
 
     'gallery' => [
 
@@ -19,15 +19,15 @@ $maat = [
 
     'highlights' => [
 
-        'Pure Vegetarian menu curated by our expert chefs',
-        'Jain-friendly options available upon request',
-        'Elegant interiors with a blend of modern and cultural aesthetics',
-        'Freshly baked breads, gourmet desserts, and specialty beverages',
-        'Seating capacity for 80 guests - perfect for families, business meets, or relaxed dining',
-        'Multi-cuisine offerings including North Indian, South Indian, Continental, Chinese, and Fusion delights'
+        'Pure Vegetarian Menu Curated By Expert Chefs',
+        'Jain-Friendly Options Available Upon Request',
+        'Elegant Interiors With Modern And Cultural Aesthetics',
+        'Freshly Baked Breads, Gourmet Desserts & Specialty Beverages',
+        'Seating Capacity For 80 Guests',
+        'Multi-Cuisine Offerings Including North Indian, South Indian, Continental, Chinese & Fusion Delights'
 
     ],
 
-    'footer_text' => 'At , we do not just serve food—we celebrate the essence of vegetarian dining with soulful service and elevated hospitality. Whether you are a hotel guest or a local visitor, MAAT is where your search for authentic taste ends.'
+    'footer_text' => 'At Maava, we do not just serve food—we celebrate the essence of vegetarian dining with soulful service and elevated hospitality. Whether you are a hotel guest or a local visitor, Maava is where your search for authentic taste ends.'
 
 ];

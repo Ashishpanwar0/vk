@@ -7,20 +7,19 @@
             <div>
 
                 <span class="uppercase tracking-[4px] text-[#D4A843] text-lg font-bold">
-                    YOUR NEXT STAY AWAITS
+                    WHERE LUXURY MEETS LEGACY
                 </span>
 
                 <h2 class="text-white text-4xl lg:text-6xl leading-tight mt-4 font-serif">
-                    Book Direct & Save
+                    Experience VK Grand
                 </h2>
 
                 <p class="text-[#D4A843] italic text-3xl mt-2">
-                    Up to 20%
+                    Kannauj, Uttar Pradesh
                 </p>
 
                 <p class="text-gray-400 mt-6 max-w-lg leading-relaxed text-lg">
-                    Get the absolute best rates when you book directly with us —
-                    no hidden fees, flexible dates, instant confirmation and premium hospitality.
+                    Welcome to V.K. Grand, a landmark of elegance, comfort, and culture. Enjoy luxury rooms, grand banquet halls, expansive lawns, pure vegetarian dining, and exceptional hospitality in the heart of Kannauj.
                 </p>
 
                 <div class="flex flex-wrap gap-4 mt-8">
@@ -68,7 +67,7 @@
                         </h3>
 
                         <p class="text-white/80 mb-8 max-w-sm text-lg">
-                            Our reservation team is available to help you with room bookings, events and special requests.
+                            Our team is available to assist you with room reservations, banquet bookings, weddings, events, and special requests.
                         </p>
 
                         <div class="flex flex-wrap justify-center gap-4">

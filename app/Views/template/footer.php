@@ -20,7 +20,7 @@
                 </div>
                 
                 <p class="text-gray-400 leading-relaxed text-lg md:text-[17px] max-w-[280px]">
-                    Kannauj's premier luxury hotel offering world-class hospitality since our founding.
+                    Where Luxury Meets Legacy. Experience elegant hospitality, premium accommodations, grand event venues and exceptional dining at V.K. Grand, Kannauj.
                 </p>
                 
                 <div class="flex items-center gap-3 mt-6">
@@ -57,8 +57,8 @@
                 <ul class="space-y-3">
                     <li><a href="<?= base_url('banquet') ?>" class="text-gray-400 hover:text-gold transition-colors duration-300 text-lg md:text-[17px]">Banquet Hall</a></li>
                     <li><a href="<?= base_url('lawn') ?>" class="text-gray-400 hover:text-gold transition-colors duration-300 text-lg md:text-[17px]">Lawn</a></li>
-                    <li><a href="<?= base_url('mawa') ?>" class="text-gray-400 hover:text-gold transition-colors duration-300 text-lg md:text-[17px]">MAWA Restaurant</a></li>
-                    <li><a href="<?= base_url('baithak') ?>" class="text-gray-400 hover:text-gold transition-colors duration-300 text-lg md:text-[17px]">BAITHAK Lounge</a></li>
+                    <li><a href="<?= base_url('mawa') ?>" class="text-gray-400 hover:text-gold transition-colors duration-300 text-lg md:text-[17px]">Maava Restaurant</a></li>
+                    <li><a href="<?= base_url('baithak') ?>" class="text-gray-400 hover:text-gold transition-colors duration-300 text-lg md:text-[17px]">Baithak Lounge</a></li>
                 </ul>
             </div>
             
@@ -66,31 +66,50 @@
             <div>
                 <h4 class="uppercase tracking-[2px] text-2xl md:text-3xl font-semibold text-gold mb-6">Contact Info</h4>
                 <div class="space-y-4">
+
                     <div class="flex items-start gap-3">
                         <i class="fa-solid fa-location-dot text-gold text-base mt-1"></i>
                         <p class="text-gray-400 leading-relaxed text-lg md:text-[17px]">
-                            Main Road, Kannauj<br>
-                            Uttar Pradesh 209725
+                            Tirwa Road, Kannauj<br>
+                            Uttar Pradesh - 209727, India
                         </p>
                     </div>
+
                     <div class="flex items-center gap-3">
                         <i class="fa-solid fa-phone text-gold text-base"></i>
                         <a href="tel:+918052065111" class="text-gray-400 hover:text-gold transition-colors duration-300 text-lg md:text-[17px]">
-                            +91 80520 65111
+                            +91 8052065111
                         </a>
                     </div>
+
+                    <div class="flex items-center gap-3">
+                        <i class="fa-solid fa-phone text-gold text-base"></i>
+                        <a href="tel:+918052062111" class="text-gray-400 hover:text-gold transition-colors duration-300 text-lg md:text-[17px]">
+                            +91 8052062111
+                        </a>
+                    </div>
+
                     <div class="flex items-center gap-3">
                         <i class="fa-solid fa-envelope text-gold text-base"></i>
                         <a href="mailto:info@vkgrand.com" class="text-gray-400 hover:text-gold transition-colors duration-300 text-lg md:text-[17px]">
                             info@vkgrand.com
                         </a>
                     </div>
+
+                    <div class="flex items-center gap-3">
+                        <i class="fa-solid fa-envelope text-gold text-base"></i>
+                        <a href="mailto:reservations@vkgrand.com" class="text-gray-400 hover:text-gold transition-colors duration-300 text-lg md:text-[17px]">
+                            reservations@vkgrand.com
+                        </a>
+                    </div>
+
                     <div class="flex items-center gap-3">
                         <i class="fa-regular fa-clock text-gold text-base"></i>
                         <p class="text-gray-400 text-lg md:text-[17px]">
                             24/7 Guest Service
                         </p>
                     </div>
+
                 </div>
             </div>
         </div>
@@ -99,7 +118,7 @@
         <div class="border-t border-white/10 mt-10 sm:mt-12 lg:mt-16 pt-6 sm:pt-8">
             <div class="flex flex-col sm:flex-row items-center justify-between gap-4">
                 <p class="text-gray-500 text-sm sm:text-base text-center sm:text-left">
-                    © <?= date('Y') ?> VK Grand Hotel, Kannauj. All rights reserved.
+                    © <?= date('Y') ?> V.K. Grand, Kannauj, Uttar Pradesh. All rights reserved.
                 </p>
                 
                 <div class="flex items-center gap-4 sm:gap-6">
