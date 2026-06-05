@@ -34,19 +34,19 @@
     </script>
     
     <style>
-        /* Base Font */
+        /* Base Font
         html, body, * {
             font-family: 'Cormorant Garamond', serif !important;
         }
         
         /* Font Awesome Fix */
-        i, .fas, .far, .fab, .fa-solid, .fa-regular, .fa-brands {
+        /* i, .fas, .far, .fab, .fa-solid, .fa-regular, .fa-brands {
             font-family: "Font Awesome 6 Free" !important;
-        }
+        } */
         
-        .fab, .fa-brands {
+        /* .fab, .fa-brands {
             font-family: "Font Awesome 6 Brands" !important;
-        }
+        } */ */
         
         /* Base Body */
         body {
@@ -133,7 +133,7 @@
             
             <!-- Right Side - Book Now Button -->
             <div class="flex items-center gap-4">
-                <a href="<?= base_url('book-now') ?>" 
+                <a href="https://asiatech.in/booking_engine/index3?token=ODQwOA==" 
                    class="hidden lg:flex items-center gap-2 px-6 xl:px-8 py-3 xl:py-3.5 bg-gold text-white font-bold text-[16px] xl:text-[18px] rounded-full hover:bg-green transition-all shadow-md hover:shadow-xl">
                     <i class="fa-regular fa-calendar-check"></i> Book Now
                 </a>

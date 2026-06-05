@@ -49,14 +49,14 @@
             <!-- Right Card -->
             <div>
 
-                <div class="relative rounded-2xl overflow-hidden bg-gradient-to-br from-[#5d3710] via-[#9b671c] to-[#d4a843] h-[300px] lg:h-[360px]">
+                <div class="relative rounded-2xl overflow-hidden bg-gradient-to-br from-[#5d3710] via-[#9b671c] to-[#d4a843] h-[400px] lg:h-[360px]">
 
                     <!-- Glow -->
                     <div class="absolute inset-0 bg-black/10"></div>
 
                     <div class="absolute inset-0 flex flex-col items-center justify-center text-center p-8">
 
-                        <div class="w-20 h-20 rounded-full bg-white/10 backdrop-blur-sm flex items-center justify-center mb-6">
+                        <div class="w-20 h-20 rounded-full bg-white/10 backdrop-blur-sm flex items-center justify-center mb-6 p-10">
 
                             <i class="fab fa-whatsapp text-white text-4xl"></i>
 

@@ -391,7 +391,7 @@
                     <img
                         src="<?= base_url('Hero-image/Hero-logo-image/vk-grand-slider-1.webp'); ?>"
                         alt="VK Grand Hotel"
-                        class="w-full h-[500px] object-cover">
+                        class="w-full lg:h-[400px] h-[350px] object-cover">
 
                     <div class="absolute inset-0 bg-gradient-to-t from-black/30 to-transparent"></div>
 

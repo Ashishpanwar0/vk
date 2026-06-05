@@ -21,10 +21,10 @@ return [
             'images' => [
                 'Hero-image/Rooms-Img/Vk-Rooms (9).webp',
                 'Hero-image/Rooms-Img/Vk-Rooms (1).webp',
-                'Hero-image/Rooms-Img/Vk-Rooms (9).webp',
+                'Hero-image/Rooms-Img/Vk-Rooms (10).webp',
             ],
 
-            'book_url' => '#'
+            'book_url' => 'https://asiatech.in/booking_engine/index3?token=ODQwOA=='
         ],
 
         [
@@ -45,10 +45,10 @@ return [
             'images' => [
                 'Hero-image/Rooms-Img/Vk-Rooms (10).webp',
                 'Hero-image/Rooms-Img/Vk-Rooms (11).webp',
-                'Hero-image/Rooms-Img/Vk-Rooms (6).webp',
+                'Hero-image/Rooms-Img/Vk-Rooms (18).webp',
             ],
 
-            'book_url' => '#'
+            'book_url' => 'https://asiatech.in/booking_engine/index3?token=ODQwOA=='
         ],
 
         [
@@ -69,10 +69,10 @@ return [
             'images' => [
                 'Hero-image/Rooms-Img/Vk-Rooms (13).webp',
                 'Hero-image/Rooms-Img/Vk-Rooms (14).webp',
-                'Hero-image/Rooms-Img/Vk-Rooms (7).webp',
+                'Hero-image/Rooms-Img/Vk-Rooms (19).webp',
             ],
 
-            'book_url' => '#'
+            'book_url' => 'https://asiatech.in/booking_engine/index3?token=ODQwOA=='
         ],
 
         [
@@ -91,12 +91,12 @@ return [
             ],
 
             'images' => [
+                'Hero-image/Rooms-Img/Vk-Rooms (16).webp',
                 'Hero-image/Rooms-Img/Vk-Rooms (2).webp',
-                'Hero-image/Rooms-Img/Vk-Rooms (9).webp',
-                'Hero-image/Rooms-Img/Vk-Rooms (7).webp',
+                'Hero-image/Rooms-Img/Vk-Rooms (1).webp',
             ],
 
-            'book_url' => '#'
+            'book_url' => 'https://asiatech.in/booking_engine/index3?token=ODQwOA=='
         ]
 
     ]

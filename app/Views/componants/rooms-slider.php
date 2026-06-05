@@ -46,7 +46,7 @@ $icons = [
     </div>
 
     <!-- Main Slider -->
-    <div class="swiper roomsSlider h-[630px]">
+    <div class="swiper roomsSlider lg:h-[630px] h-[690px]">
 
         <div class="swiper-wrapper">
 

@@ -82,12 +82,12 @@
                         </a>
                     </div>
 
-                    <div class="flex items-center gap-3">
+                    <!-- <div class="flex items-center gap-3">
                         <i class="fa-solid fa-phone text-gold text-base"></i>
                         <a href="tel:+918052062111" class="text-gray-400 hover:text-gold transition-colors duration-300 text-lg md:text-[17px]">
                             +91 8052062111
                         </a>
-                    </div>
+                    </div> -->
 
                     <div class="flex items-center gap-3">
                         <i class="fa-solid fa-envelope text-gold text-base"></i>
@@ -103,34 +103,34 @@
                         </a>
                     </div>
 
-                    <div class="flex items-center gap-3">
+                    <!-- <div class="flex items-center gap-3">
                         <i class="fa-regular fa-clock text-gold text-base"></i>
                         <p class="text-gray-400 text-lg md:text-[17px]">
                             24/7 Guest Service
                         </p>
-                    </div>
+                    </div> -->
 
                 </div>
             </div>
         </div>
         
         <!-- Bottom Section -->
-        <div class="border-t border-white/10 mt-10 sm:mt-12 lg:mt-16 pt-6 sm:pt-8">
+        <div class="border-t border-white/10 mt-10 sm:mt-9 lg:mt-8 pt-6 sm:pt-8">
             <div class="flex flex-col sm:flex-row items-center justify-between gap-4">
-                <p class="text-gray-500 text-sm sm:text-base text-center sm:text-left">
+                <p class="text-gray-500  text-center text-left text-xl">
                     © <?= date('Y') ?> V.K. Grand, Kannauj, Uttar Pradesh. All rights reserved.
                 </p>
                 
                 <div class="flex items-center gap-4 sm:gap-6">
-                    <a href="#" class="text-gray-500 hover:text-gold transition-colors duration-300 text-sm">
+                    <a href="#" class="text-gray-500 hover:text-gold transition-colors duration-300 text-xl">
                         Privacy Policy
                     </a>
-                    <a href="#" class="text-gray-500 hover:text-gold transition-colors duration-300 text-sm">
+                    <a href="#" class="text-gray-500 hover:text-gold transition-colors duration-300 text-xl">
                         Terms & Conditions
                     </a>
-                    <a href="#" class="text-gray-500 hover:text-gold transition-colors duration-300 text-sm">
+                    <!-- <a href="#" class="text-gray-500 hover:text-gold transition-colors duration-300 text-sm">
                         Sitemap
-                    </a>
+                    </a> -->
                 </div>
             </div>
         </div>

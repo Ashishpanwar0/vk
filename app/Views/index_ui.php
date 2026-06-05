@@ -91,149 +91,130 @@
 
 
 
-<!-- ================= ABOUT SECTION START ================= -->
-<section class="bg-[#F8F6F3] py-8">
-    <div class="max-w-7xl mx-auto px-5">
+<!-- ABOUT SECTION -->
+<section class="bg-[#F7F4EF] py-16 lg:py-20">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
 
-        <!-- Heading -->
-        <div class="mb-10">
-            <p class="uppercase tracking-[4px] text-[16px] font-bold text-[#c8a25d]">
-                GET IN TOUCH
-            </p>
+        <div class="grid lg:grid-cols-2 gap-12 lg:gap-16 items-center">
 
-            <h2 class="text-5xl font-serif text-black mt-2">
-                Contact <span class="text-[#c8a25d] italic">VK Grand</span>
-            </h2>
-        </div>
+            <!-- LEFT CONTENT -->
+            <div>
 
-        <!-- Contact Cards -->
-        <div class="grid md:grid-cols-2 gap-5">
+                <p class="uppercase tracking-[5px] text-[16px] font-bold text-[#C79A56] mb-3">
+                    ABOUT VK GRAND
+                </p>
 
-            <!-- Phone -->
-            <a href="tel:+918052065111"
-                class="bg-white rounded-2xl px-6 py-5 flex items-center justify-between shadow hover:shadow-lg transition">
+                <h2 class="font-serif leading-[1.05]">
+                    <span class="block text-[34px] md:text-[48px] lg:text-[58px] text-black">
+                        Kannauj's Finest
+                    </span>
 
-                <div class="flex items-center gap-4">
+                    <span class="block text-[34px] md:text-[48px] lg:text-[58px] italic font-light text-[#C79A56]">
+                        Luxury Hotel
+                    </span>
+                </h2>
 
-                    <div class="w-12 h-12 rounded-xl bg-[#f7f1e3] flex items-center justify-center">
-                        <i class="fa-solid fa-phone text-[#c8a25d]"></i>
-                    </div>
+                <p class="mt-6  text-gray-600 leading-8 text-xl">
+                    Nestled in Kannauj – India's perfume capital – VK Grand Hotel is a sanctuary
+                    of refined elegance and authentic Indian warmth. Every room, meal and
+                    interaction is crafted to make your stay unforgettable.
+                </p>
 
-                    <div>
-                        <p class="text-[18px] font-bold uppercase tracking-widest">
-                            Call Us
-                        </p>
+                <p class="mt-5 text-gray-600 leading-8 text-xl">
+                    Whether you're here for business, leisure, weddings or celebrations,
+                    VK Grand delivers an experience that resonates long after checkout.
+                </p>
 
-                        <h4 class="font-medium text-gray-800 text-xl">
-                            +91 8052065111
-                        </h4>
-                    </div>
+                <div class="mt-8 flex items-center gap-4">
+                    <div class="flex-1 h-[1px] bg-[#DCC8A1]"></div>
+
+                    <span class="uppercase tracking-[4px] text-[15px] font-bold text-[#C79A56] whitespace-nowrap">
+                        EST. IN KANNAUJ, UP
+                    </span>
+
+                    <div class="flex-1 h-[1px] bg-[#DCC8A1]"></div>
+                </div>
+
+                <a href="<?= base_url('about') ?>"
+                    class="inline-flex items-center gap-2 mt-8 px-7 py-3 border border-[#C79A56] rounded-full text-[#C79A56] text-xl font-medium hover:bg-[#C79A56] hover:text-white transition">
+
+                    OUR STORY
+                    <span>→</span>
+
+                </a>
+
+            </div>
+
+            <!-- RIGHT SIDE -->
+            <div class="relative">
+
+                <!-- BIG IMAGE -->
+                <div class="rounded-[18px] overflow-hidden h-[260px] md:h-[320px] lg:h-[340px] shadow-lg">
+
+                    <img
+                        src="<?= base_url('Hero-image/Hero-logo-image/show-case-6.webp') ?>"
+                        alt="VK Grand Hotel"
+                        class="w-full h-full object-cover">
 
                 </div>
 
-                <i class="fa-solid fa-chevron-right text-[#c8a25d]"></i>
+                <!-- SMALL FLOATING IMAGE -->
+                <div class="absolute -bottom-5 right-0 md:right-[-10px] w-[180px] md:w-[260px] h-[95px] md:h-[130px] rounded-[14px] overflow-hidden border-4 border-white shadow-xl">
 
-            </a>
-
-            <!-- WhatsApp -->
-            <a href="https://wa.me/918052065111"
-                target="_blank"
-                class="bg-white rounded-2xl px-6 py-5 flex items-center justify-between shadow hover:shadow-lg transition">
-
-                <div class="flex items-center gap-4">
-
-                    <div class="w-12 h-12 rounded-xl bg-green-50 flex items-center justify-center">
-                        <i class="fab fa-whatsapp text-green-500 text-lg"></i>
-                    </div>
-
-                    <div>
-                        <p class="text-[18px] font-bold uppercase tracking-widest">
-                            WhatsApp
-                        </p>
-
-                        <h4 class="font-medium text-gray-800 text-xl">
-                            Chat With Us
-                        </h4>
-                    </div>
+                    <img
+                        src="<?= base_url('Hero-image/Hero-logo-image/vk-grand-slider-2.webp') ?>"
+                        alt="Luxury Room"
+                        class="w-full h-full object-cover">
 
                 </div>
 
-                <i class="fa-solid fa-chevron-right text-[#c8a25d]"></i>
-
-            </a>
-
-            <!-- Email -->
-            <a href="mailto:info@vkgrand.com"
-                class="bg-white rounded-2xl px-6 py-5 flex items-center justify-between shadow hover:shadow-lg transition">
-
-                <div class="flex items-center gap-4">
-
-                    <div class="w-12 h-12 rounded-xl bg-[#f7f1e3] flex items-center justify-center">
-                        <i class="fa-solid fa-envelope text-[#c8a25d]"></i>
-                    </div>
-
-                    <div>
-                        <p class="text-[18px] font-bold uppercase tracking-widest">
-                            Email
-                        </p>
-
-                        <h4 class="font-medium text-gray-800 text-xl">
-                            info@vkgrand.com
-                        </h4>
-                    </div>
-
-                </div>
-
-                <i class="fa-solid fa-chevron-right text-[#c8a25d]"></i>
-
-            </a>
-
-            <!-- Address -->
-            <a href="https://maps.google.com/?q=Hotel+VK+Grand+Kannauj"
-                target="_blank"
-                class="bg-white rounded-2xl px-6 py-5 flex items-center justify-between shadow hover:shadow-lg transition">
-
-                <div class="flex items-center gap-4">
-
-                    <div class="w-12 h-12 rounded-xl bg-[#f7f1e3] flex items-center justify-center">
-                        <i class="fa-solid fa-location-dot text-[#c8a25d]"></i>
-                    </div>
-
-                    <div>
-                        <p class="text-[18px] font-bold uppercase tracking-widest">
-                            Address
-                        </p>
-
-                        <h4 class="font-medium text-gray-800 text-xl">
-                            Tirwa Road, Kannauj, Uttar Pradesh - 209727
-                        </h4>
-                    </div>
-
-                </div>
-
-                <i class="fa-solid fa-chevron-right text-[#c8a25d]"></i>
-
-            </a>
+            </div>
 
         </div>
 
-        <!-- Google Map -->
-        <div class="mt-5 rounded-2xl overflow-hidden border border-[#ddd] shadow">
+        <!-- STATS -->
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-4 mt-16">
 
-            <iframe
-                src="https://www.google.com/maps?q=Hotel+VK+Grand+Kannauj&output=embed"
-                width="100%"
-                height="350"
-                style="border:0;"
-                allowfullscreen=""
-                loading="lazy">
-            </iframe>
+            <div class="bg-white rounded-2xl py-8 text-center shadow-sm">
+
+                <h3 class="text-[#C79A56] text-[36px] font-serif">
+                    87+
+                </h3>
+
+                <p class="text-[16px] text-gray-600">
+                    Premium Rooms
+                </p>
+
+            </div>
+
+            <div class="bg-white rounded-2xl py-8 text-center shadow-sm">
+
+                <h3 class="text-[#C79A56] text-[36px] font-serif">
+                    500+
+                </h3>
+
+                <p class="text-[16px] text-gray-600">
+                    Events Hosted
+                </p>
+
+            </div>
+
+            <div class="bg-white rounded-2xl py-8 text-center shadow-sm">
+
+                <h3 class="text-[#C79A56] text-[36px] font-serif">
+                    4.8★
+                </h3>
+
+                <p class="text-[16px] text-gray-600">
+                    Guest Rating
+                </p>
+
+            </div>
 
         </div>
 
     </div>
 </section>
-
 
  <!-- rooms slider page -->
   <?= view('componants/rooms-slider')?>
