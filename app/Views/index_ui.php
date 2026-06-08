@@ -6,35 +6,43 @@
     <div class="flex items-center gap-12 whitespace-nowrap w-max animate-[marquee_28s_linear_infinite]">
 
         <span class="flex items-center gap-3 text-[14px] font-bold tracking-[0.28em] uppercase text-[#B8860B]">
-            <i class="fas fa-bed text-[14px]"></i>87 Luxury Rooms
+            <i class="fas fa-bed text-[14px]"></i>87 Luxury Rooms & Suites
         </span>
 
         <span class="flex items-center gap-3 text-[14px] font-bold tracking-[0.28em] uppercase text-[#B8860B]">
-            <i class="fas fa-utensils text-[14px]"></i>Pure Vegetarian Restaurant
+            <i class="fas fa-utensils text-[14px]"></i>MAVA Vegetarian Restaurant
         </span>
 
         <span class="flex items-center gap-3 text-[14px] font-bold tracking-[0.28em] uppercase text-[#B8860B]">
-            <i class="fas fa-swimming-pool text-[14px]"></i>Swimming Pool
+            <i class="fas fa-cocktail text-[14px]"></i>BAITHAK Bar & Lounge
         </span>
 
         <span class="flex items-center gap-3 text-[14px] font-bold tracking-[0.28em] uppercase text-[#B8860B]">
-            <i class="fas fa-dumbbell text-[14px]"></i>Fitness Centre
+            <i class="fas fa-glass-cheers text-[14px]"></i>Lavender Ballroom
         </span>
 
         <span class="flex items-center gap-3 text-[14px] font-bold tracking-[0.28em] uppercase text-[#B8860B]">
-            <i class="fas fa-spa text-[14px]"></i>Spa & Wellness
+            <i class="fas fa-glass-cheers text-[14px]"></i>Orchid Ballroom
         </span>
 
         <span class="flex items-center gap-3 text-[14px] font-bold tracking-[0.28em] uppercase text-[#B8860B]">
-            <i class="fas fa-glass-cheers text-[14px]"></i>Banquet Halls
+            <i class="fas fa-tree text-[14px]"></i>Silver Lawn • 15,000 Sq. Ft.
         </span>
 
         <span class="flex items-center gap-3 text-[14px] font-bold tracking-[0.28em] uppercase text-[#B8860B]">
-            <i class="fas fa-tree text-[14px]"></i>Expansive Event Lawns
+            <i class="fas fa-tree text-[14px]"></i>Gold Lawn • 16,000 Sq. Ft.
         </span>
 
         <span class="flex items-center gap-3 text-[14px] font-bold tracking-[0.28em] uppercase text-[#B8860B]">
-            <i class="fas fa-hot-tub text-[14px]"></i>Jacuzzi • Sauna • Steam
+            <i class="fas fa-tree text-[14px]"></i>Platinum Lawn • 40,000 Sq. Ft.
+        </span>
+
+        <span class="flex items-center gap-3 text-[14px] font-bold tracking-[0.28em] uppercase text-[#B8860B]">
+            <i class="fas fa-heart text-[14px]"></i>Destination Weddings & Celebrations
+        </span>
+
+        <span class="flex items-center gap-3 text-[14px] font-bold tracking-[0.28em] uppercase text-[#B8860B]">
+            <i class="fas fa-building text-[14px]"></i>1.25 Lakh Sq. Ft. Luxury Property
         </span>
 
         <span class="flex items-center gap-3 text-[14px] font-bold tracking-[0.28em] uppercase text-[#B8860B]">
@@ -44,35 +52,43 @@
         <!-- Duplicate for smooth marquee -->
 
         <span class="flex items-center gap-3 text-[14px] font-bold tracking-[0.28em] uppercase text-[#B8860B]">
-            <i class="fas fa-bed text-[14px]"></i>87 Luxury Rooms
+            <i class="fas fa-bed text-[14px]"></i>87 Luxury Rooms & Suites
         </span>
 
         <span class="flex items-center gap-3 text-[14px] font-bold tracking-[0.28em] uppercase text-[#B8860B]">
-            <i class="fas fa-utensils text-[14px]"></i>Pure Vegetarian Restaurant
+            <i class="fas fa-utensils text-[14px]"></i>MAVA Vegetarian Restaurant
         </span>
 
         <span class="flex items-center gap-3 text-[14px] font-bold tracking-[0.28em] uppercase text-[#B8860B]">
-            <i class="fas fa-swimming-pool text-[14px]"></i>Swimming Pool
+            <i class="fas fa-cocktail text-[14px]"></i>BAITHAK Bar & Lounge
         </span>
 
         <span class="flex items-center gap-3 text-[14px] font-bold tracking-[0.28em] uppercase text-[#B8860B]">
-            <i class="fas fa-dumbbell text-[14px]"></i>Fitness Centre
+            <i class="fas fa-glass-cheers text-[14px]"></i>Lavender Ballroom
         </span>
 
         <span class="flex items-center gap-3 text-[14px] font-bold tracking-[0.28em] uppercase text-[#B8860B]">
-            <i class="fas fa-spa text-[14px]"></i>Spa & Wellness
+            <i class="fas fa-glass-cheers text-[14px]"></i>Orchid Ballroom
         </span>
 
         <span class="flex items-center gap-3 text-[14px] font-bold tracking-[0.28em] uppercase text-[#B8860B]">
-            <i class="fas fa-glass-cheers text-[14px]"></i>Banquet Halls
+            <i class="fas fa-tree text-[14px]"></i>Silver Lawn • 15,000 Sq. Ft.
         </span>
 
         <span class="flex items-center gap-3 text-[14px] font-bold tracking-[0.28em] uppercase text-[#B8860B]">
-            <i class="fas fa-tree text-[14px]"></i>Expansive Event Lawns
+            <i class="fas fa-tree text-[14px]"></i>Gold Lawn • 16,000 Sq. Ft.
         </span>
 
         <span class="flex items-center gap-3 text-[14px] font-bold tracking-[0.28em] uppercase text-[#B8860B]">
-            <i class="fas fa-hot-tub text-[14px]"></i>Jacuzzi • Sauna • Steam
+            <i class="fas fa-tree text-[14px]"></i>Platinum Lawn • 40,000 Sq. Ft.
+        </span>
+
+        <span class="flex items-center gap-3 text-[14px] font-bold tracking-[0.28em] uppercase text-[#B8860B]">
+            <i class="fas fa-heart text-[14px]"></i>Destination Weddings & Celebrations
+        </span>
+
+        <span class="flex items-center gap-3 text-[14px] font-bold tracking-[0.28em] uppercase text-[#B8860B]">
+            <i class="fas fa-building text-[14px]"></i>1.25 Lakh Sq. Ft. Luxury Property
         </span>
 
         <span class="flex items-center gap-3 text-[14px] font-bold tracking-[0.28em] uppercase text-[#B8860B]">
@@ -100,29 +116,25 @@
             <!-- LEFT CONTENT -->
             <div>
 
-                <p class="uppercase tracking-[5px] text-[16px] font-bold text-[#C79A56] mb-3">
+                <p class="uppercase tracking-[5px] text-[18px] font-bold text-[#C79A56] mb-3">
                     ABOUT VK GRAND
                 </p>
 
                 <h2 class="font-serif leading-[1.05]">
                     <span class="block text-[34px] md:text-[48px] lg:text-[58px] text-black">
-                        Kannauj's Finest
+                        Where Luxury
                     </span>
-
                     <span class="block text-[34px] md:text-[48px] lg:text-[58px] italic font-light text-[#C79A56]">
-                        Luxury Hotel
+                        Meets Legacy
                     </span>
                 </h2>
 
-                <p class="mt-6  text-gray-600 leading-8 text-xl">
-                    Nestled in Kannauj – India's perfume capital – VK Grand Hotel is a sanctuary
-                    of refined elegance and authentic Indian warmth. Every room, meal and
-                    interaction is crafted to make your stay unforgettable.
+                <p class="mt-6 text-gray-600 leading-8 lg:text-2xl text-xl">
+                    Welcome to V.K. Grand, a landmark of elegance, comfort, and culture. Built on the vision of Late Shri Virendra Kumar Dixit, our namesake and guiding light, V.K. Grand is where heartfelt hospitality meets world-class luxury in a pocket-friendly budget.
                 </p>
 
-                <p class="mt-5 text-gray-600 leading-8 text-xl">
-                    Whether you're here for business, leisure, weddings or celebrations,
-                    VK Grand delivers an experience that resonates long after checkout.
+                <p class="mt-5 text-gray-600 leading-8 lg:text-2xl text-xl">
+                    Spanning over 1.25 lakh square feet in the historic perfume capital of India, V.K. Grand offers 87 tastefully designed rooms and suites, premium dining options, and magnificent event spaces crafted with precision and passion.
                 </p>
 
                 <div class="mt-8 flex items-center gap-4">
@@ -181,8 +193,8 @@
                     87+
                 </h3>
 
-                <p class="text-[16px] text-gray-600">
-                    Premium Rooms
+                <p class="text-[22px] text-gray-600">
+                    Premium Rooms & Suites
                 </p>
 
             </div>
@@ -190,11 +202,11 @@
             <div class="bg-white rounded-2xl py-8 text-center shadow-sm">
 
                 <h3 class="text-[#C79A56] text-[36px] font-serif">
-                    500+
+                    5
                 </h3>
 
-                <p class="text-[16px] text-gray-600">
-                    Events Hosted
+                <p class="text-[22px] text-gray-600">
+                    Grand Event Spaces
                 </p>
 
             </div>
@@ -205,7 +217,7 @@
                     4.8★
                 </h3>
 
-                <p class="text-[16px] text-gray-600">
+                <p class="text-[22px] text-gray-600">
                     Guest Rating
                 </p>
 
@@ -263,7 +275,7 @@
                             Call Us
                         </p>
 
-                        <h4 class="font-medium text-gray-800 text-xl">
+                        <h4 class="font-medium text-gray-800 text-2xl">
                             +91 8052065111
                         </h4>
                     </div>
@@ -286,11 +298,11 @@
                     </div>
 
                     <div>
-                        <p class="text-[18px] font-bold uppercase tracking-widest">
+                        <p class="text-[20px] font-bold uppercase tracking-widest">
                             WhatsApp
                         </p>
 
-                        <h4 class="font-medium text-gray-800 text-xl">
+                        <h4 class="font-medium text-gray-800 text-2xl">
                             Chat With Us
                         </h4>
                     </div>
@@ -316,7 +328,7 @@
                             Email
                         </p>
 
-                        <h4 class="font-medium text-gray-800 text-xl">
+                        <h4 class="font-medium text-gray-800  text-2xl">
                             info@vkgrand.com
                         </h4>
                     </div>
@@ -343,7 +355,7 @@
                             Address
                         </p>
 
-                        <h4 class="font-medium text-gray-800 text-xl">
+                        <h4 class="font-medium text-gray-800 text-2xl">
                             VK Grand Hotel, Lucknow, Uttar Pradesh
                         </h4>
                     </div>

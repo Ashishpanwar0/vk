@@ -106,7 +106,7 @@ $experienceCards = [
         <h2 class="text-white text-3xl md:text-4xl lg:text-5xl mt-3 leading-tight">
             The <span class="italic text-[#D4A843]">Difference</span> You Feel
         </h2>
-
+ 
         <div class="grid md:grid-cols-2 gap-x-12 gap-y-10 mt-10">
             <?php foreach($differencePoints as $item): ?>
             <div class="flex gap-5">
@@ -114,10 +114,10 @@ $experienceCards = [
                     <?= $item['number'] ?>
                 </div>
                 <div>
-                    <h3 class="text-white text-lg lg:text-xl mb-2">
+                    <h3 class="text-white text-xl lg:text-2xl mb-2">
                         <?= $item['title'] ?>
                     </h3>
-                    <p class="text-gray-400 text-[17px] leading-relaxed">
+                    <p class="text-gray-400 text-[20px] leading-relaxed">
                         <?= $item['desc'] ?>
                     </p>
                 </div>
@@ -130,7 +130,7 @@ $experienceCards = [
 <!-- ================= VISUAL TOUR ================= -->
 <div class="bg-[#0F0D0A] py-14 px-5 lg:px-20">
     <div class="max-w-[1400px] mx-auto">
-        <span class="uppercase tracking-[4px] text-[#D4A843] text-[16px] font-bold">VISUAL TOUR</span>
+        <span class="uppercase tracking-[4px] text-[#D4A843] text-[18px] font-bold">VISUAL TOUR</span>
         
         <h2 class="text-white text-[32px] md:text-[42px] lg:text-[56px] leading-tight mt-3 mb-10">
             Experience <span class="italic text-[#D4A843]">VK Grand</span>

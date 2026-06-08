@@ -18,7 +18,7 @@ return [
 ],
 
 [
-    'title_1' => '87 Luxury',
+    'title_1' => 'Luxury',
     'title_2' => 'Rooms & Suites',
 
     'description' => 'Experience refined comfort in our thoughtfully designed rooms and suites, crafted for both business and leisure travelers.',

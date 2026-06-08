@@ -60,7 +60,7 @@ $slides = include APPPATH . 'Data/hero_slider.php';
                             </h1>
 
                             <!-- Description -->
-                            <p class="mt-4 sm:mt-6 text-white/85 text-[13px] sm:text-[16px] lg:text-[22px] leading-6 lg:leading-9 max-w-[850px] hero-desc">
+                            <p class="mt-4 sm:mt-6 text-white/85 text-[16px] sm:text-[16px] lg:text-[22px] leading-6 lg:leading-9 max-w-[850px] hero-desc">
 
                                 <?= esc($slide['description']) ?>
 

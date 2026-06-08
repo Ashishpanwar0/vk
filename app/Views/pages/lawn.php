@@ -4,7 +4,7 @@
 <?= view('componants/hero', [
     'title' => 'Lawns',
     'subtitle' => 'Welcome to VK Grand',
-    'bg' => 'Hero-image/Hero-logo-image/slider-1.webp'
+    'bg' => 'Hero-image/Hero-Section/lawan-hero.webp'
 ]) ?>
 
 <!-- Lawns Section -->
@@ -140,7 +140,7 @@
             <?php foreach ($lawn['highlights'] as $highlight): ?>
                 <div class="flex items-center gap-2 bg-white p-3 sm:p-4 rounded-lg shadow-sm hover:shadow-md transition">
                     <i class="fa-solid fa-circle-check text-[#C09130] text-sm"></i>
-                    <span class="text-gray-700 text-xs sm:text-lg"><?= esc($highlight) ?></span>
+                    <span class="text-gray-700 text-xl"><?= esc($highlight) ?></span>
                 </div>
             <?php endforeach; ?>
         </div>

@@ -18,14 +18,14 @@
                     Kannauj, Uttar Pradesh
                 </p>
 
-                <p class="text-gray-400 mt-6 max-w-lg leading-relaxed text-lg">
+                <p class="text-gray-400 mt-6 max-w-lg leading-relaxed text-xl">
                     Welcome to V.K. Grand, a landmark of elegance, comfort, and culture. Enjoy luxury rooms, grand banquet halls, expansive lawns, pure vegetarian dining, and exceptional hospitality in the heart of Kannauj.
                 </p>
 
                 <div class="flex flex-wrap gap-4 mt-8">
 
                     <!-- Book Now -->
-                    <a href="/booking"
+                    <a href="https://asiatech.in/booking_engine/index3?token=ODQwOA==" target="_blank"
                        class="px-8 py-4 rounded-full bg-[#D4A843] text-black font-semibold hover:bg-[#c29435] transition flex items-center gap-2">
 
                         <i class="fa-solid fa-calendar-check"></i>
@@ -49,7 +49,7 @@
             <!-- Right Card -->
             <div>
 
-                <div class="relative rounded-2xl overflow-hidden bg-gradient-to-br from-[#5d3710] via-[#9b671c] to-[#d4a843] h-[400px] lg:h-[360px]">
+                <div class="relative rounded-2xl overflow-hidden bg-gradient-to-br from-[#5d3710] via-[#9b671c] to-[#d4a843] h-[440px] lg:h-[360px]">
 
                     <!-- Glow -->
                     <div class="absolute inset-0 bg-black/10"></div>
@@ -66,7 +66,7 @@
                             Need Assistance?
                         </h3>
 
-                        <p class="text-white/80 mb-8 max-w-sm text-lg">
+                        <p class="text-white/80 mb-8 max-w-sm text-xl">
                             Our team is available to assist you with room reservations, banquet bookings, weddings, events, and special requests.
                         </p>
 

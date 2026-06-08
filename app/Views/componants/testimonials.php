@@ -49,7 +49,7 @@ href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css">
                         <!-- Review - Fixed height with scroll -->
                         <div class="flex-1 overflow-y-auto min-h-0" style="word-break:break-word; overflow-wrap:break-word;">
 
-                            <p id="short-<?= $index ?>" class="text-gray-600 leading-7 text-sm">
+                            <p id="short-<?= $index ?>" class="text-gray-600 leading-7 text-xl">
 
                                 <?= esc(strlen($review) > $limit
                                     ? substr($review,0,$limit).'...'
@@ -60,7 +60,7 @@ href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css">
                             <?php if(strlen($review) > $limit): ?>
 
                             <p id="full-<?= $index ?>"
-                               class="hidden text-gray-600 leading-7 text-lg">
+                               class="hidden text-gray-600 leading-7 text-xl">
 
                                 <?= esc($review) ?>
 
@@ -70,7 +70,7 @@ href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css">
                                 type="button"
                                 onclick="toggleReview(<?= $index ?>)"
                                 id="btn-<?= $index ?>"
-                                class="mt-2 text-[#D4A843] text-sm font-medium">
+                                class="mt-2 text-[#D4A843] text-xl font-medium">
 
                                 Read More
 
@@ -91,11 +91,11 @@ href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css">
 
                             <div>
 
-                                <h4 class="font-semibold text-[#111]">
+                                <h4 class="font-semibold text-[#111] text-xl">
                                     <?= esc($item['name']) ?>
                                 </h4>
 
-                                <p class="text-sm text-gray-500">
+                                <p class="text-xl text-gray-500">
                                     <?= esc($item['location']) ?>
                                     •
                                     <?= esc($item['stay_type']) ?>

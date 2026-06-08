@@ -8,7 +8,7 @@
 
                 <div class="flex items-center gap-3 mb-4">
                     <span class="w-10 h-[1px] bg-[#c79b47]"></span>
-                    <span class="text-xs uppercase tracking-[3px] text-[#c79b47]">
+                    <span class="text-xl font-bold uppercase tracking-[3px] text-[#c79b47]">
                         Send Us A Message
                     </span>
                 </div>
@@ -21,7 +21,7 @@
                     </span>
                 </h2>
 
-                <p class="mt-4 text-gray-500">
+                <p class="mt-4 text-gray-500 text-xl">
                     Fill in the form and our team will respond within 24 hours.
                 </p>
 
@@ -34,7 +34,7 @@
                 <div class="grid md:grid-cols-2 gap-5">
 
                     <div>
-                        <label class="block text-xs uppercase mb-2 text-gray-500">
+                        <label class="block text-xl uppercase mb-2 text-gray-500">
                             First Name
                         </label>
                         <input type="text" name="first_name"
@@ -43,7 +43,7 @@
                     </div>
 
                     <div>
-                        <label class="block text-xs uppercase mb-2 text-gray-500">
+                        <label class="block text-xl uppercase mb-2 text-gray-500">
                             Last Name
                         </label>
                         <input type="text" name="last_name"
@@ -52,7 +52,7 @@
                     </div>
 
                     <div>
-                        <label class="block text-xs uppercase mb-2 text-gray-500">
+                        <label class="block text-xl uppercase mb-2 text-gray-500">
                             Phone
                         </label>
                         <input type="tel" name="phone"
@@ -61,7 +61,7 @@
                     </div>
 
                     <div>
-                        <label class="block text-xs uppercase mb-2 text-gray-500">
+                        <label class="block text-xl uppercase mb-2 text-gray-500">
                             Email
                         </label>
                         <input type="email" name="email"
@@ -70,7 +70,7 @@
                     </div>
 
                     <div>
-                        <label class="block text-xs uppercase mb-2 text-gray-500">
+                        <label class="block text-xl uppercase mb-2 text-gray-500">
                             Check-In Date
                         </label>
                         <input type="date" name="checkin_date"
@@ -78,7 +78,7 @@
                     </div>
 
                     <div>
-                        <label class="block text-xs uppercase mb-2 text-gray-500">
+                        <label class="block text-xl uppercase mb-2 text-gray-500">
                             Check-Out Date
                         </label>
                         <input type="date" name="checkout_date"
@@ -90,7 +90,7 @@
                 <!-- Interested In -->
                 <div class="mt-8">
 
-                    <label class="block text-xs uppercase mb-4 text-gray-500">
+                    <label class="block text-xl uppercase mb-4 text-gray-500">
                         Interested In
                     </label>
 
@@ -123,7 +123,7 @@
                 <!-- Message -->
                 <div class="mt-8">
 
-                    <label class="block text-xs uppercase mb-2 text-gray-500">
+                    <label class="block text-xl uppercase mb-2 text-gray-500">
                         Message
                     </label>
 

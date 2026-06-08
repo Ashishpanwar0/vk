@@ -90,31 +90,30 @@
             
             <!-- Desktop Navigation - Large Fonts -->
             <nav class="hidden lg:flex items-center gap-8 xl:gap-12">
-                <a href="<?= base_url('/') ?>" class="text-[18px] xl:text-[20px] font-semibold text-[#222] hover:text-gold transition-colors relative after:absolute after:bottom-[-6px] after:left-0 after:w-0 after:h-[2px] after:bg-gold after:transition-all hover:after:w-full">Home</a>
+                <a href="<?= base_url('/') ?>" class="text-2xl  font-semibold text-[#222] hover:text-gold transition-colors relative after:absolute after:bottom-[-6px] after:left-0 after:w-0 after:h-[2px] after:bg-gold after:transition-all hover:after:w-full">Home</a>
                 
-                <a href="<?= base_url('about') ?>" class="text-[18px] xl:text-[20px] font-semibold text-[#222] hover:text-gold transition-colors relative after:absolute after:bottom-[-6px] after:left-0 after:w-0 after:h-[2px] after:bg-gold after:transition-all hover:after:w-full">About Us</a>
+                <a href="<?= base_url('about') ?>" class="text-2xl  font-semibold text-[#222] hover:text-gold transition-colors relative after:absolute after:bottom-[-6px] after:left-0 after:w-0 after:h-[2px] after:bg-gold after:transition-all hover:after:w-full">About Us</a>
                 
-                <a href="<?= base_url('rooms') ?>" class="text-[18px] xl:text-[20px] font-semibold text-[#222] hover:text-gold transition-colors relative after:absolute after:bottom-[-6px] after:left-0 after:w-0 after:h-[2px] after:bg-gold after:transition-all hover:after:w-full">Our Rooms</a>
+                <a href="<?= base_url('rooms') ?>" class="text-2xl  font-semibold text-[#222] hover:text-gold transition-colors relative after:absolute after:bottom-[-6px] after:left-0 after:w-0 after:h-[2px] after:bg-gold after:transition-all hover:after:w-full">Our Rooms</a>
                 
                 <!-- Restaurant Dropdown - MAWA & BAITHAK -->
                 <div class="relative group">
-                    <button class="flex items-center gap-2 text-[18px] xl:text-[20px] font-semibold text-[#222] hover:text-gold transition-colors">
+                    <button class="flex items-center gap-2 text-2xl  font-semibold text-[#222] hover:text-gold transition-colors">
                         Restaurant
                         <i class="fa-solid fa-angle-down text-sm transition-transform group-hover:rotate-180"></i>
                     </button>
                     <div class="absolute top-full left-1/2 -translate-x-1/2 mt-4 bg-white min-w-[220px] rounded-2xl shadow-2xl opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all py-2 border border-gray-100 z-50">
                         <a href="<?= base_url('mawa') ?>" class="block px-6 py-3 text-[17px] font-medium hover:bg-gray-50 hover:text-gold transition-colors">
-                            <i class="fa-solid fa-utensils text-gold mr-3 text-sm"></i>MAAVA
-                        </a>
+                            <i class="fa-solid fa-utensils text-gold mr-3 text-sm"></i>Maवा
                         <a href="<?= base_url('baithak') ?>" class="block px-6 py-3 text-[17px] font-medium hover:bg-gray-50 hover:text-gold transition-colors">
-                            <i class="fa-solid fa-mug-hot text-gold mr-3 text-sm"></i> BAITHAK
+                            <i class="fa-solid fa-mug-hot text-gold mr-3 text-sm"></i> बैTHAK
                         </a>
                     </div>
                 </div>
                 
                 <!-- Venue Dropdown - BANQUET & LAWN -->
                 <div class="relative group">
-                    <button class="flex items-center gap-2 text-[18px] xl:text-[20px] font-semibold text-[#222] hover:text-gold transition-colors">
+                    <button class="flex items-center gap-2 text-2xl  font-semibold text-[#222] hover:text-gold transition-colors">
                         Our Venue
                         <i class="fa-solid fa-angle-down text-sm transition-transform group-hover:rotate-180"></i>
                     </button>
@@ -128,13 +127,13 @@
                     </div>
                 </div>
                 
-                <a href="<?= base_url('contact') ?>" class="text-[18px] xl:text-[20px] font-semibold text-[#222] hover:text-gold transition-colors relative after:absolute after:bottom-[-6px] after:left-0 after:w-0 after:h-[2px] after:bg-gold after:transition-all hover:after:w-full">Contact Us</a>
+                <a href="<?= base_url('contact') ?>" class="text-2xl  font-semibold text-[#222] hover:text-gold transition-colors relative after:absolute after:bottom-[-6px] after:left-0 after:w-0 after:h-[2px] after:bg-gold after:transition-all hover:after:w-full">Contact Us</a>
             </nav>
             
             <!-- Right Side - Book Now Button -->
             <div class="flex items-center gap-4">
-                <a href="https://asiatech.in/booking_engine/index3?token=ODQwOA==" 
-                   class="hidden lg:flex items-center gap-2 px-6 xl:px-8 py-3 xl:py-3.5 bg-gold text-white font-bold text-[16px] xl:text-[18px] rounded-full hover:bg-green transition-all shadow-md hover:shadow-xl">
+                <a href="https://asiatech.in/booking_engine/index3?token=ODQwOA==" target="_blank"
+                   class="hidden lg:flex items-center gap-2 px-6 xl:px-8 py-3 xl:py-3.5 bg-gold text-white font-bold text-[16px] xl:text-2xl rounded-full hover:bg-green transition-all shadow-md hover:shadow-xl">
                     <i class="fa-regular fa-calendar-check"></i> Book Now
                 </a>
                 
@@ -162,17 +161,17 @@
     
     <!-- Menu Links -->
     <div class="px-5 py-6">
-        <a href="<?= base_url('/') ?>" class="block py-4 text-white text-[18px] font-medium border-b border-white/15 hover:text-gold transition-colors">Home</a>
-        <a href="<?= base_url('about') ?>" class="block py-4 text-white text-[18px] font-medium border-b border-white/15 hover:text-gold transition-colors">About Us</a>
-        <a href="<?= base_url('rooms') ?>" class="block py-4 text-white text-[18px] font-medium border-b border-white/15 hover:text-gold transition-colors">Our Rooms</a>
+        <a href="<?= base_url('/') ?>" class="block py-4 text-white text-2xl font-medium border-b border-white/15 hover:text-gold transition-colors">Home</a>
+        <a href="<?= base_url('about') ?>" class="block py-4 text-white text-2xl font-medium border-b border-white/15 hover:text-gold transition-colors">About Us</a>
+        <a href="<?= base_url('rooms') ?>" class="block py-4 text-white text-2xl font-medium border-b border-white/15 hover:text-gold transition-colors">Our Rooms</a>
         
         <!-- Restaurant Section -->
         <div class="mt-6 mb-3 text-gold text-[13px] font-bold tracking-wider uppercase">Restaurant</div>
         <a href="<?= base_url('mawa') ?>" class="flex items-center gap-3 py-3 text-white/80 pl-4 text-[16px] hover:text-gold transition-colors">
-            <i class="fa-solid fa-utensils text-gold text-sm"></i> MAWA
+            <i class="fa-solid fa-utensils text-gold text-sm"></i> Maवा
         </a>
         <a href="<?= base_url('baithak') ?>" class="flex items-center gap-3 py-3 text-white/80 pl-4 text-[16px] hover:text-gold transition-colors">
-            <i class="fa-solid fa-mug-hot text-gold text-sm"></i> BAITHAK
+            <i class="fa-solid fa-mug-hot text-gold text-sm"></i> बैTHAK
         </a>
         
         <!-- Venue Section -->
@@ -184,12 +183,12 @@
             <i class="fa-solid fa-tree text-gold text-sm"></i> LAWN
         </a>
         
-        <a href="<?= base_url('contact') ?>" class="block py-4 text-white text-[18px] font-medium border-t border-white/15 mt-6 pt-4 hover:text-gold transition-colors">Contact Us</a>
+        <a href="<?= base_url('contact') ?>" class="block py-4 text-white text-2xl font-medium border-t border-white/15 mt-6 pt-4 hover:text-gold transition-colors">Contact Us</a>
     </div>
     
     <!-- Bottom Section -->
     <div class="p-5 border-t border-white/15">
-        <a href="<?= base_url('book-now') ?>" class="block w-full text-center bg-gold hover:bg-green py-4 rounded-full text-white font-bold text-[18px] transition-all">
+        <a href="https://asiatech.in/booking_engine/index3?token=ODQwOA==" target="_blank" class="block w-full text-center bg-gold hover:bg-green py-4 rounded-full text-white font-bold text-2xl transition-all">
             <i class="fa-regular fa-calendar-check mr-2"></i> Book Now
         </a>
         

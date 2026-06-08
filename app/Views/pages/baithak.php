@@ -6,7 +6,7 @@ $sithak = include APPPATH . 'Data/sithak-data.php';
 <?= view('componants/hero', [
     'title' => 'Sithak Bar & Lounge',
     'subtitle' => 'Welcome to VK Grand',
-    'bg' => 'Hero-image/Hero-logo-image/slider-3.webp'
+    'bg' => 'Hero-image/Hero-Section/Baithak-hero.webp'
 ]) ?>
 
 <section class="py-6 sm:py-8 md:py-12 lg:py-16 bg-white">
@@ -51,11 +51,11 @@ $sithak = include APPPATH . 'Data/sithak-data.php';
                 
                 <div class="w-16 sm:w-20 md:w-24 h-0.5 bg-[#C09130] my-4 sm:my-5 md:my-6"></div>
                 
-                <p class="text-gray-600 text-lg leading-relaxed sm:leading-loose mb-3 sm:mb-4">
+                <p class="text-gray-600 text-xl leading-relaxed sm:leading-loose mb-3 sm:mb-4">
                     <?= esc($sithak['description_1']) ?>
                 </p>
                 
-                <p class="text-gray-600 text-lg leading-relaxed sm:leading-loose">
+                <p class="text-gray-600 text-xl leading-relaxed sm:leading-loose">
                     <?= esc($sithak['description_2']) ?>
                 </p>
             </div>
@@ -79,7 +79,7 @@ $sithak = include APPPATH . 'Data/sithak-data.php';
                         <div class="flex-shrink-0 w-7 h-7 sm:w-8 sm:h-8 md:w-9 md:h-9 rounded-full bg-[#C09130] text-white flex items-center justify-center mt-0.5">
                             <i class="fa-solid fa-check text-lg"></i>
                         </div>
-                        <p class="text-gray-700 text-lg leading-relaxed flex-1">
+                        <p class="text-gray-700 text-xl leading-relaxed flex-1">
                             <?= esc($item) ?>
                         </p>
                     </div>
@@ -91,7 +91,7 @@ $sithak = include APPPATH . 'Data/sithak-data.php';
         <div class="mt-12 sm:mt-16 md:mt-20 lg:mt-24">
             <div class="bg-gradient-to-br from-[#120d08] to-[#1a140e] text-white rounded-xl sm:rounded-2xl lg:rounded-3xl p-6 sm:p-8 md:p-10 lg:p-12 xl:p-14 text-center">
                 <i class="fa-solid fa-champagne-glasses text-[#C09130] text-2xl sm:text-3xl md:text-4xl mb-4 sm:mb-5 md:mb-6 inline-block"></i>
-                <p class="max-w-3xl mx-auto text-sm sm:text-base md:text-lg leading-relaxed sm:leading-loose text-gray-200">
+                <p class="max-w-3xl mx-auto text-xl leading-relaxed sm:leading-loose text-gray-200">
                     <?= esc($sithak['footer_text']) ?>
                 </p>
             </div>

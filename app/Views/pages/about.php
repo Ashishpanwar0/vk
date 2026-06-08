@@ -3,7 +3,7 @@
 
     'title' => 'About Us',
     'subtitle' => 'Welcome to our website',
-    'bg' => 'Hero-image/Hero-logo-image/slider-3.webp'
+    'bg' => 'Hero-image/Hero-Section/about-section-hero.webp'
 
 ]) ?>
 <!-- About Section -->
@@ -16,7 +16,7 @@
             <!-- Left Content -->
             <div>
 
-                <span class="uppercase tracking-[4px] text-lg text-[#c6953a] font-bold">
+                <span class="uppercase tracking-[4px] text-xl text-[#c6953a] font-bold">
                     Our Story
                 </span>
 
@@ -29,7 +29,7 @@
                     </span>
                 </h2>
 
-                <p class="mt-8 text-gray-600 leading-8 text-lg">
+                <p class="mt-8 text-gray-600 leading-8 text-xl">
                     VK Grand Hotel was founded with a singular vision — to create
                     a luxurious sanctuary in the heart of Kannauj, where every guest
                     feels like royalty. What began as a dream to bring world-class
@@ -37,14 +37,14 @@
                     celebrated hotel.
                 </p>
 
-                <p class="mt-6 text-gray-600 leading-8 text-lg">
+                <p class="mt-6 text-gray-600 leading-8 text-xl">
                     Kannauj — the perfume capital of India — deserved a hotel that
                     matched its rich heritage and cultural depth. We built VK Grand
                     to honour this city, its warmth, its traditions, and its spirit
                     of welcome.
                 </p>
 
-                <p class="mt-6 text-gray-600 leading-8 text-lg">
+                <p class="mt-6 text-gray-600 leading-8 text-xl">
                     From intimate family stays to grand wedding receptions, from
                     executive business travel to romantic getaways — VK Grand has
                     been the chosen destination for thousands of guests from across India.
@@ -54,7 +54,7 @@
 
                     <span class="w-40 h-[1px] bg-[#d7c5a4]"></span>
 
-                    <span class="uppercase tracking-[5px] text-[16px] font-bold text-[#c6953a] font-medium">
+                    <span class="uppercase tracking-[5px] text-[20px] font-bold text-[#c6953a]">
                         Our Journey
                     </span>
 
@@ -91,40 +91,40 @@
         </div>
 
         <!-- Stats -->
-        <div class="grid grid-cols-2 lg:grid-cols-4 gap-5 mt-24">
+        <div class="grid grid-cols-1 lg:grid-cols-4 gap-5 mt-24">
 
             <div class="bg-white rounded-3xl p-8 text-center shadow-sm">
-                <h3 class="text-5xl font-serif text-[#c6953a]">
-                    40+
+                <h3 class="text-3xl font-serif text-[#c6953a]">
+                    Luxury
                 </h3>
-                <p class="text-gray-500 mt-2">
-                    Premium Rooms
+                <p class="text-gray-500 mt-2 text-2xl">
+                    Rooms & Suites
                 </p>
             </div>
 
             <div class="bg-white rounded-3xl p-8 text-center shadow-sm">
-                <h3 class="text-5xl font-serif text-[#c6953a]">
-                    500+
+                <h3 class="text-3xl font-serif text-[#c6953a]">
+                    Grand
                 </h3>
-                <p class="text-gray-500 mt-2">
-                    Events Hosted
+                <p class="text-gray-500 mt-2 text-2xl">
+                    Banquet & Events
                 </p>
             </div>
 
             <div class="bg-white rounded-3xl p-8 text-center shadow-sm">
-                <h3 class="text-5xl font-serif text-[#c6953a]">
-                    10K+
+                <h3 class="text-3xl font-serif text-[#c6953a]">
+                    Loved By
                 </h3>
-                <p class="text-gray-500 mt-2">
+                <p class="text-gray-500 mt-2 text-2xl">
                     Happy Guests
                 </p>
             </div>
 
             <div class="bg-white rounded-3xl p-8 text-center shadow-sm">
-                <h3 class="text-5xl font-serif text-[#c6953a]">
+                <h3 class="text-3xl font-serif text-[#c6953a]">
                     4.8★
                 </h3>
-                <p class="text-gray-500 mt-2">
+                <p class="text-gray-500 mt-2 text-2xl">
                     Average Rating
                 </p>
             </div>
@@ -175,7 +175,7 @@
                     Our Mission
                 </h3>
 
-                <p class="text-gray-400 leading-8 text-lg">
+                <p class="text-gray-400 leading-8 lg:text-2xl text-xl">
                     To deliver exceptional hospitality experiences that surpass
                     expectations — providing every guest with comfort, warmth,
                     and memorable service that honours the traditions of Kannauj.
@@ -196,7 +196,7 @@
                     Our Vision
                 </h3>
 
-                <p class="text-gray-400 leading-8 text-lg">
+                <p class="text-gray-400 leading-8 lg:text-2xl text-xl">
                     To be the most trusted and beloved hotel brand in Uttar Pradesh —
                     setting a new benchmark for luxury, warmth, and excellence in
                     hospitality across the region.
@@ -215,7 +215,6 @@
 
     <div class="max-w-[1400px] mx-auto px-5 lg:px-14">
 
-        <!-- Heading -->
         <div class="mb-12">
 
             <span class="uppercase tracking-[4px] text-[16px] text-[#c79b47] font-bold">
@@ -231,7 +230,6 @@
 
         </div>
 
-        <!-- Values Grid -->
         <div class="grid md:grid-cols-2 gap-6">
 
             <div class="bg-white rounded-2xl p-6 shadow-sm border border-[#eee] flex gap-4">
@@ -240,7 +238,7 @@
                 </div>
                 <div>
                     <h4 class="font-semibold text-[#111] mb-2 text-2xl">Genuine Warmth</h4>
-                    <p class="text-gray-600 text-sm leading-6 text-lg">
+                    <p class="text-gray-600 text-sm leading-6 text-xl">
                         We treat every guest like family — with sincerity, care, and a smile that comes from the heart.
                     </p>
                 </div>
@@ -252,7 +250,7 @@
                 </div>
                 <div>
                     <h4 class="font-semibold text-[#111] mb-2 text-2xl">Uncompromising Quality</h4>
-                    <p class="text-gray-600 text-sm leading-6 text-lg">
+                    <p class="text-gray-600 text-sm leading-6 text-xl">
                         From the finest linen to the freshest ingredients — every detail is held to the highest standard.
                     </p>
                 </div>
@@ -264,7 +262,7 @@
                 </div>
                 <div>
                     <h4 class="font-semibold text-[#111] mb-2 text-2xl">Respect for Heritage</h4>
-                    <p class="text-gray-600 text-sm leading-6 text-lg">
+                    <p class="text-gray-600 text-sm leading-6 text-xl">
                         We celebrate Kannauj's rich culture and history in everything we do — from our décor to our meals.
                     </p>
                 </div>
@@ -276,7 +274,7 @@
                 </div>
                 <div>
                     <h4 class="font-semibold text-[#111] mb-2 text-2xl">Trust & Transparency</h4>
-                    <p class="text-gray-600 text-sm leading-6 text-lg">
+                    <p class="text-gray-600 text-sm leading-6 text-xl">
                         No hidden charges. No surprises. We believe in honest pricing and clear, straightforward service.
                     </p>
                 </div>
@@ -370,13 +368,13 @@
                             Today
                         </p>
 
-                        <h4 class="font-semibold text-[#111] text-2xl mb-2">
-                            40+ Rooms, 10,000+ Happy Guests
-                        </h4>
+                       <h4 class="font-semibold text-[#111] text-2xl mb-2">
+    Luxury Rooms & Suites, Grand Banquet & Events
+</h4>
 
-                        <p class="text-gray-600 text-lg leading-6">
-                            Now home to 40+ premium rooms and suites, having hosted over 10,000 satisfied guests from across India.
-                        </p>
+<p class="text-gray-600 text-lg leading-6">
+    Experience ultimate comfort in our beautifully designed premium rooms and suites, dedicated to welcoming satisfied guests from all across India.
+</p>
                     </div>
 
                 </div>

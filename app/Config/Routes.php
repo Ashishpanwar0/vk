@@ -46,4 +46,12 @@ $routes->get('book-now', function () {
     return view('pages/book-now');
 });
 
+$routes->get('privacy', function () {
+    return view('pages/privacy-policy');
+});
+
+$routes->get('term-condition', function () {
+    return view('pages/tearm-condition');
+});
+
 $routes->get('rooms', 'Rooms::rooms');
