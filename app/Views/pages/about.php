@@ -347,7 +347,6 @@
 
                     <div class="relative pl-10 pb-10">
                         <span class="absolute -left-[11px] top-1 w-5 h-5 bg-white border-2 border-[#c79b47] rounded-full"></span>
-
                         <p class="text-[#c79b47] uppercase text-[16px] font-bold tracking-[2px] mb-2">
                             Recognition
                         </p>
